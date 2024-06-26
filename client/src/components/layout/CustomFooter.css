@@ -1,0 +1,67 @@
+.custom-footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: left;
+    width: 100%; /* 确保宽度为100% */
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    max-width: 1200px; /* 添加最大宽度 */
+    margin: 0 auto; /* 居中 */
+    padding: 0 20px; /* 添加内边距 */
+}
+
+.footer-left, .footer-right {
+    flex: 1;
+    padding-left: 15%
+}
+
+.footer-left h2, .footer-right h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+
+}
+
+.footer-left p, .footer-right p {
+    margin: 5px 0;
+
+}
+
+.footer-right p a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-right p a:hover {
+    text-decoration: underline;
+}
+
+.footer-bottom {
+    text-align: center;
+    padding-top: 10px;
+    border-top: 1px solid #555;
+    margin-top: 20px;
+}
+
+/* 媒体查询：适用于小屏幕 */
+@media (max-width: 767px) {
+    .footer-content {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .footer-left, .footer-right {
+        margin: 10px 0;
+        padding-left: 0
+    }
+
+    .footer-left h2, .footer-right h2, .footer-left p, .footer-right p {
+        margin-left: 0;
+    }
+}

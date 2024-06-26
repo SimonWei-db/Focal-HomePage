@@ -1,0 +1,150 @@
+[
+  {
+    "id": 1,
+    "type": "resource",
+    "title": "Light Rain Condition",
+    "description": "Data from our measurement setup under light rain conditions.",
+    "date": "2012-01-01 00:00:00",
+    "image": "./upload_files/News&Resources/origin-resources-4.jpg",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null,
+    "links": [
+      {
+        "id": 1,
+        "news_id": 1,
+        "url": "./upload_files/UserCloud/upload-readme-1717559360357-474637484.pdf?download=true",
+        "label": "Instructions on Use of Data",
+        "created_at": "2024-06-24 14:47:34",
+        "updated_at": "2024-06-24 14:47:34"
+      },
+      {
+        "id": 2,
+        "news_id": 1,
+        "url": "./upload_files/UserCloud/upload-WeatherParameters_lightrain-1717560087735-223991051.txt?download=true",
+        "label": "Weather Data",
+        "created_at": "2024-06-24 14:47:34",
+        "updated_at": "2024-06-24 14:47:34"
+      },
+      {
+        "id": 5,
+        "news_id": 1,
+        "url": "./upload_files/UserCloud/upload-Light Rain Condition - Measurement Conditions-1717559996258-880360256.pdf?download=true",
+        "label": "Measurement Conditions",
+        "created_at": "2024-06-24 14:47:34",
+        "updated_at": "2024-06-24 14:47:34"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "type": "resource",
+    "title": "Clear Weather - Low Scintillation Index",
+    "description": "Data from our measurement setup under clear weather conditions with low scintillation index.",
+    "date": "2012-01-01 00:00:00",
+    "image": "./upload_files/News&Resources/origin-resources-2.jpg",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null,
+    "links": [
+      {
+        "id": 3,
+        "news_id": 2,
+        "url": "./upload_files/UserCloud/upload-readme-1717559360357-474637484.pdf?download=true",
+        "label": "Instructions on Use of Data",
+        "created_at": "2024-06-24 14:47:34",
+        "updated_at": "2024-06-24 14:47:34"
+      },
+      {
+        "id": 4,
+        "news_id": 2,
+        "url": "./upload_files/UserCloud/upload-WeatherParameters_clearlowSI-1717559684320-857441678.txt?download=true",
+        "label": "Weather Data",
+        "created_at": "2024-06-24 14:47:34",
+        "updated_at": "2024-06-24 14:47:34"
+      },
+      {
+        "id": 6,
+        "news_id": 2,
+        "url": "./upload_files/UserCloud/upload-Low Scintillation Index - Measurement Conditions-1717559576687-383241637.pdf?download=true",
+        "label": "Measurement Conditions",
+        "created_at": "2024-06-24 14:47:34",
+        "updated_at": "2024-06-24 14:47:34"
+      },
+      {
+        "id": 7,
+        "news_id": 2,
+        "url": "./upload_files/UserCloud/upload-Markov_lowSI-1717559722385-879762283.zip?download=true",
+        "label": "Markov Model",
+        "created_at": "2024-06-24 14:47:34",
+        "updated_at": "2024-06-24 14:47:34"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "type": "resource",
+    "title": "Channel Measurement and Markov Modeling of an Urban Free-Space Optical Link",
+    "description": "A. Mostafa and S. Hranilovic, \"Channel Measurement and Markov Modeling of an Urban Free-Space Optical Link,\" IEEE/OSA Journal of Optical Communications and Networking, vol.4, no.10, pp. 836-846, Oct. 2012.",
+    "date": "2012-10-01 00:00:00",
+    "image": "./upload_files/News&Resources/origin-resources-1.jpg",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null,
+    "links": [
+      {
+        "id": 8,
+        "news_id": 3,
+        "url": "./upload_files/UserCloud/upload-JOCN2012-1717559351317-12677448.pdf?download=true",
+        "label": "Download preprint of paper here",
+        "created_at": "2024-06-24 14:47:34",
+        "updated_at": "2024-06-24 14:47:34"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "type": "resource",
+    "title": "Clear Weather - High Scintillation Index",
+    "description": "Data from our measurement setup under clear weather conditions with high scintillation index.",
+    "date": "2012-01-01 00:00:00",
+    "image": "./upload_files/News&Resources/origin-resources-3.jpg",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null,
+    "links": [
+      {
+        "id": 9,
+        "news_id": 4,
+        "url": "./upload_files/UserCloud/upload-readme-1717559360357-474637484.pdf?download=true",
+        "label": "Instructions on Use of Data",
+        "created_at": "2024-06-24 14:47:34",
+        "updated_at": "2024-06-24 14:47:34"
+      },
+      {
+        "id": 10,
+        "news_id": 4,
+        "url": "./upload_files/UserCloud/upload-High Scintillation Index - Measurement Conditions-1717559768670-453046062.pdf?download=true",
+        "label": "Measurement Conditions",
+        "created_at": "2024-06-24 14:47:34",
+        "updated_at": "2024-06-24 14:47:34"
+      },
+      {
+        "id": 11,
+        "news_id": 4,
+        "url": "./upload_files/UserCloud/upload-Markov_highSI-1717559940272-413115362.zip?download=true",
+        "label": "Markov Model",
+        "created_at": "2024-06-24 14:47:34",
+        "updated_at": "2024-06-24 14:47:34"
+      },
+      {
+        "id": 13,
+        "news_id": 4,
+        "url": "./upload_files/UserCloud/upload-WeatherParameters_clearhighSI-1717559894355-65773877.txt?download=true",
+        "label": "Weather Data",
+        "created_at": "2024-06-24 14:47:34",
+        "updated_at": "2024-06-24 14:47:34"
+      }
+    ]
+  }
+]

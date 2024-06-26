@@ -1,0 +1,162 @@
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+
+.layout {
+  min-height: 100vh;
+  background-color: #f0f2f5;
+}
+
+.header {
+  background-color: #ffffff;
+  padding: 0 50px;
+}
+
+.team-background {
+  position: relative;
+  width: 100%;
+  height: 50vh;
+  background: url('../../assets/images/BackGroundTeam.jpg') no-repeat center center/cover;
+}
+
+.team-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #fff;
+}
+
+.team-overlay h1 {
+  font-size: 48px;
+  margin-bottom: 16px;
+  color: #fff; /* White color */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Add shadow */
+}
+
+.team-content {
+  padding: 50px;
+}
+
+.team-intro-section {
+  text-align: left;
+  margin-bottom: 30px;
+  font-size: 18px;
+  line-height: 1.6;
+  text-decoration: none;
+}
+
+.ant-card {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.ant-card-head-title {
+  font-size: 19px;
+  font-weight: bold;
+}
+
+.ant-card-body {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.ant-typography {
+  margin-bottom: 16px;
+}
+
+.team-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.team-col {
+  display: flex;
+  flex: 1 1 33.33%; /* Set default width to 33.33% for 3 cards per row */
+  max-width: 33.33%;
+}
+
+.team-card {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.scroll-to-top-button {
+  position: fixed;
+  bottom: 40px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 8000; /* Ensure the button is above other content */
+  opacity: 0.7;
+  transition: opacity 0.3s;
+}
+
+.scroll-to-top-button:hover {
+  opacity: 1;
+}
+
+.card-text {
+  font-size: 17px;
+}
+
+.card-tag {
+  font-size: 16px;
+}
+
+/* Media Queries for responsive design */
+@media (max-width: 1200px) {
+  .team-col {
+    max-width: 50%;
+    flex: 1 1 50%;
+  }
+
+  .team-overlay h1 {
+    font-size: 36px; /* Adjust the title size */
+  }
+
+  .team-content {
+    padding: 30px; /* Adjust the padding */
+  }
+}
+
+@media (max-width: 768px) {
+  .header {
+    padding: 0 20px; /* Adjust the header padding */
+  }
+
+  .team-col {
+    max-width: 100%;
+    flex: 1 1 100%;
+  }
+
+  .team-overlay h1 {
+    font-size: 28px; /* Adjust the title size */
+  }
+
+  .team-content {
+    padding: 20px; /* Adjust the padding */
+  }
+
+  .team-intro-section {
+    font-size: 16px;
+  }
+
+  .ant-card-head-title {
+    font-size: 16px;
+  }
+
+  .ant-card-body {
+    font-size: 14px;
+  }
+
+  .card-text {
+    font-size: 14px;
+  }
+
+  .card-tag {
+    font-size: 14px;
+  }
+}

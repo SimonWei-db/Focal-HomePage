@@ -1,0 +1,123 @@
+.edit-team {
+  padding: 24px;
+  background: #fff;
+}
+
+.edit-team h2 {
+  margin-bottom: 24px;
+}
+
+.spin-center {
+  display: block;
+  margin-top: 20%;
+}
+
+@media (max-width: 768px) {
+  .edit-team {
+    padding: 16px;
+  }
+
+  .edit-team h2 {
+    font-size: 20px;
+  }
+
+  .admin-form .ant-form-item {
+    margin-bottom: 16px;
+  }
+
+  .section-title {
+    font-size: 16px;
+  }
+
+  .full-width {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  .bold-button {
+    font-weight: bold;
+  }
+
+  .save-button,
+  .reset-button {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  .ant-card {
+    margin-bottom: 16px;
+  }
+
+  .ant-card-head-title {
+    font-size: 16px;
+  }
+
+  .ant-card-body {
+    padding: 16px;
+  }
+
+  .student-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .ant-list-item {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .ant-list-item-action {
+    margin-top: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .ant-modal-body {
+    padding: 16px;
+  }
+
+  .ant-modal-footer {
+    padding: 10px 16px;
+    text-align: center;
+  }
+
+  .ant-form-item-control-input {
+    flex: 1;
+  }
+
+  .ant-input,
+  .ant-btn {
+    width: 100%;
+  }
+
+  .ant-space-item {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+
+  .ant-space-item button {
+    flex: 1;
+    margin: 0 5px;
+  }
+
+  .ant-list-item-action {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+  }
+
+  .ant-list-item-action > li {
+    margin-right: 10px;
+  }
+
+  .student-content {
+    width: 100%;
+  }
+
+  .ant-list-item {
+    width: 100%;
+  }
+}

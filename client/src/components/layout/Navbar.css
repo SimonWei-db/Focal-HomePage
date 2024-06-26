@@ -1,0 +1,143 @@
+.header {
+  background-color: #ffffff;
+  padding: 0 10px;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  height: 64px;
+}
+
+.logo {
+  width: 120px;
+  height: 40px;
+  margin-right: 10px;
+}
+
+.logo-text {
+  color: #636363;
+  font-size: 16px;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.menu-container {
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+  padding-left: 20px;
+}
+
+.menu-right {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.ant-menu-item {
+  text-align: center;
+  padding: 0 10px; /* Adjusted for better alignment */
+  font-size: medium;
+  font-weight: bold;
+}
+
+.ant-menu-item a {
+  display: block;
+  width: 100%;
+}
+
+.menu-icon {
+  display: none;
+}
+
+@media (max-width: 991px) {
+  .menu-right {
+    display: none;
+  }
+  .menu-icon {
+    display: flex;
+    align-items: center;
+  }
+  .logo {
+    width: 100px;
+    height: 30px;
+  }
+  .logo-text {
+    font-size: 14px;
+  }
+
+  .header-container {
+    justify-content: center; /* Center the entire header content */
+  }
+}
+
+@media (max-width: 767px) {
+  .logo {
+    width: 80px;
+  }
+  .logo-text {
+    font-size: 12px;
+  }
+}
+
+.logout-button {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .logout-button {
+    display: block;
+    margin-left: 10px;
+  }
+}
+
+.alert-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.demo-alert {
+  margin-bottom: 16px;
+  z-index: 1;
+  max-width: 80%;
+  min-width: 1000px;
+  opacity: 0.85;
+}
+
+.floating-login-button {
+  position: fixed;
+  top: 70px;
+  right: 100px;
+  padding: 10px 20px;
+  background-color: rgba(0, 123, 255, 0.7);
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  z-index: 1000;
+  transition: background-color 0.3s;
+}
+
+.floating-login-button:hover {
+  background-color: rgba(0, 123, 255, 0.9);
+}
+
+.floating-alert-button {
+  position: fixed;
+  top: 70px;
+  right: 50px;
+  z-index: 1000;
+}
+
+.demo-alert-tooltip .ant-alert {
+  min-width: 200px;
+  max-width: 300px;
+}

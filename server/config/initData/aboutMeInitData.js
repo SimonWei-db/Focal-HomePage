@@ -1,0 +1,73 @@
+const initialAboutMeContent = {
+  "profile": {
+    "name": "Dr. Steve Hranilovic",
+    "degrees": "B.A.Sc. (Waterloo), M.A.Sc., Ph.D. (Toronto), P.Eng.",
+    "image": "./uploads/images/aboutMe/origin-HranilovicPhoto.jpg",
+    "bio": "I am a professor in the Department of Electrical and Computer Engineering at McMaster University. My research interests include wireless communications using light, also known as optical wireless systems. My group and I develop information theory, signaling design, and experimental prototypes for optical wireless systems operating in the infrared, visible, and ultraviolet bands.\nPlease take a look at my research or publications pages for more details. Feel free to contact me directly by email if you are interested in this area. I am always looking for good students at the Masters and Doctoral levels (see previous graduates of my group)."
+  },
+  "sections": [
+    {
+      "title": "Biography",
+      "description": "Steve Hranilovic received his B.A.Sc. degree with honors in electrical engineering from the University of Waterloo, Canada in 1997 and his M.A.Sc. and Ph.D. degrees in electrical engineering from the University of Toronto, Canada in 1999 and 2003 respectively.\nHe is currently a Professor in the Department of Electrical and Computer Engineering, McMaster University, Hamilton, Ontario, Canada. During 2010-2011 he spent his research leave as Senior Member, Technical Staff in Advanced Technology for Research in Motion, Waterloo, Canada. His research interests are in the areas of free-space and wired optical communications, digital communication algorithms, and electronic and photonic implementation of coding and communication algorithms. He is the author of the book Wireless Optical Communications Systems (New York: Springer, 2004).\nDr. Hranilovic is a licensed Professional Engineer in the Province of Ontario and was awarded the Government of Ontario Early Researcher Award in 2006. He currently serves as an Editor for IEEE Transactions on Communications in the area of optical wireless communications."
+    },
+    {
+      "title": "Research Interests",
+      "description": "My primary research focus is on the design of communication algorithms for wireless optical channels. These optical channels transmit information by modulating and detecting the optical intensity of a laser diode or light-emitting diode. Wireless optical communications provide a high-data rate, low cost, secure link which is free of spectral licensing issues.\nMy research addresses the modem design problem through theoretical and experimental studies. I develop communication algorithms, signal processing strategies, and information theory to allow for the design of efficient signalling strategies for the wireless optical channel. Additionally, I develop prototype wireless optical links on which practical signalling strategies can be verified and tested under realistic conditions. Several projects that I am currently working on are:",
+      "subSection": [
+        {
+          "title": "Information Theory, Coding and Communication Theory for Optical Intensity Channels",
+          "description": "Conventional information and communication theories cannot be applied directly to optical intensity channels due to the amplitude constraints of the channel. Some areas in which my research presents new results are:",
+          "points": [
+            "Signal-Space Models for Optical Intensity Channels",
+            "Shaping and Coding Gain for Optical Intensity Lattice Codes",
+            "Coded Modulation for Wireless Optical Intensity Channels",
+            "Channel Capacity of Wireless Optical Channels",
+            "Optical Intensity Multiple-Subcarrier Modulation"
+          ],
+          "image": "./uploads/images/aboutMe/origin-research_interset_1.jpg"
+        },
+        {
+          "title": "Free-Space Optical (FSO) Communications Optical Channels",
+          "description": "My research also concerns the investigation into the design of long-range optical wireless communication systems. My group works on theoretical system design as well as practical proof-of-concept demonstrations. In particular, we currently have a 1.9 km free-space optical link operating at 1.6Gbps connected to high-speed data converters as well as multiple Xilinx Virtex FPGAs. For details, visit my group website.",
+          "points": [
+            "Experimental demonstration of coding/modulation techniques for high-speed terrestrial FSO",
+            "Measurement and modelling of terrestrial FSO links",
+            "MIMO and diversity techniques for FSO links (theory and experiment)",
+            "Space inter-satellite laser communications"
+          ],
+          "image": "./uploads/images/aboutMe/origin-research_interset_2.jpg"
+        },
+        {
+          "title": "Visible Light Communications (VLC)",
+          "description": "There is an ongoing trend toward energy-efficient lighting systems. This work leverages the installation of LED light sources by investigating a dual communications role. Here we consider the use of VLC for broadband content distribution as well as many other applications.",
+          "points": [
+            "Coding and modulation design for high-speed communications",
+            "Indoor Localization using LED lighting systems",
+            "Integration of VLC networks with power line communications",
+            "Use of visible light communications in automotive applications including vehicle-to-vehicle communications and vehicle-to-infrastructure communications",
+            "Experimental prototype VLC networks"
+          ],
+          "image": "./uploads/images/aboutMe/origin-research_interset_3.jpg"
+        }
+      ]
+    }
+  ]
+};
+
+const createAboutMeInitialData = (db) => {
+  db.run(
+    "INSERT INTO about_me (content) VALUES (?)",
+    [JSON.stringify(initialAboutMeContent)],
+    (err) => {
+      if (err) {
+        console.error('Error inserting initial data into about_me table:', err);
+      } else {
+        console.log('Initial data inserted into about_me table successfully.');
+      }
+    }
+  );
+};
+
+module.exports = {
+  createAboutMeInitialData,
+};

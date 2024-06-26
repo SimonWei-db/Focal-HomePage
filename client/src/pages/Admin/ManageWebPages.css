@@ -1,0 +1,99 @@
+.manage-pages-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .tips {
+    margin-bottom: 20px;
+    background-color: #fafafa;
+    padding: 15px;
+    border-left: 5px solid #1890ff;
+    border-radius: 5px;
+  }
+  
+  .tips p {
+    margin: 0;
+    font-size: 14px;
+  }
+  
+  .tips ul {
+    padding-left: 20px;
+  }
+  
+  .tips ul li {
+    margin-bottom: 10px;
+  }
+  
+  .create-button {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+  }
+  
+  .quill-container {
+    height: 500px;
+    margin-bottom: 50px;
+  }
+  
+  .webpages-list {
+    margin-top: 20px;
+  }
+  
+  .webpages-list-header {
+    margin-top: 20px;
+    color: #1890ff;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  /* Media Queries for responsive design */
+  @media (max-width: 768px) {
+    .manage-pages-container {
+      padding: 10px;
+    }
+  
+    .tips p {
+      font-size: 12px;
+    }
+  
+    .tips ul li {
+      font-size: 12px;
+    }
+  
+    .quill-container {
+      height: 300px;
+      margin-bottom: 30px;
+    }
+  
+    .create-button {
+      justify-content: center;
+    }
+  }
+  
+  @media (min-width: 769px) {
+    .manage-pages-container {
+      padding: 20px 40px;
+    }
+  
+    .tips p {
+      font-size: 14px;
+    }
+  
+    .tips ul li {
+      font-size: 14px;
+    }
+  
+    .quill-container {
+      height: 500px;
+      margin-bottom: 50px;
+    }
+  
+    .create-button {
+      justify-content: flex-end;
+    }
+  }
+  

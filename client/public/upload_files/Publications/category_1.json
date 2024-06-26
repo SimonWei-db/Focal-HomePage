@@ -1,0 +1,434 @@
+[
+  {
+    "id": 1,
+    "category_id": 1,
+    "content": "{\"title\":\"Subcarrier Allocation in Hybrid Visible Light and Power Line Communication System\",\"authors\":\"H. Ma, L. Lampe, and S. Hranilovic\",\"conference\":\"IEEE International Symposium on Circuits and Systems (ISCAS)\",\"location\":\"Montreal, QC, Canada\",\"description\":\"May 2016.\",\"display_order\":54}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 2,
+    "category_id": 1,
+    "content": "{\"title\":\"Angular Diversity Approach to Indoor Positioning Using Visible Light\",\"authors\":\"M. Taylor and S. Hranilovic\",\"conference\":\"2013 IEEE Globecom Workshop on Optical Wireless Communications\",\"location\":\"Atlanta, GA, USA\",\"description\":\"December 9, 2013.\",\"display_order\":50}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 3,
+    "category_id": 1,
+    "content": "{\"title\":\"Robust MMSE Linear Precoding for Visible Light Communication Broadcasting Systems\",\"authors\":\"H. Ma, L. Lampe and S. Hranilovic\",\"conference\":\"2013 IEEE Globecom Workshop on Optical Wireless Communications\",\"location\":\"Atlanta, GA, USA\",\"description\":\"December 9, 2013.\",\"display_order\":49}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 4,
+    "category_id": 1,
+    "content": "{\"title\":\"Systematic Raptor Codes for Atmospheric Optical Channels\",\"authors\":\"L. Liu, M. Safari and S. Hranilovic\",\"conference\":\"13th Canadian Workshop on Inform. Theory\",\"location\":\"Toronto, Ontario\",\"description\":\"June 18-21, 2013.\",\"display_order\":48}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 5,
+    "category_id": 1,
+    "content": "{\"title\":\"Iterative Decoding and Multiuser Communication Using Sparse Space Codes for MIMO Channels\",\"authors\":\"S. Dhakal, T.A. Sexton and S. Hranilovic\",\"conference\":\"13th Canadian Workshop on Inform. Theory\",\"location\":\"Toronto, Ontario\",\"description\":\"June 18-21, 2013.\",\"display_order\":47}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 6,
+    "category_id": 1,
+    "content": "{\"title\":\"Rate-Adaptive FSO Communication via Rate-compatible Punctured LDPC codes\",\"authors\":\"L. Liu, M. Safari and S. Hranilovic\",\"conference\":\"IEEE Int. Conf. on Communications\",\"location\":\"Budapest, Hungary\",\"description\":\"June 9-13, 2013.\",\"display_order\":46}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 7,
+    "category_id": 1,
+    "content": "{\"title\":\"Integration of Indoor Visible Light and Power Line Communication Systems\",\"authors\":\"H. Ma, L. Lampe and S. Hranilovic\",\"conference\":\"2013 IEEE Symposium on Power Line Communications and its Applications\",\"location\":\"Johannesburg, South Africa\",\"description\":\"March 24-27, 2013.\",\"display_order\":45}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 8,
+    "category_id": 1,
+    "content": "{\"title\":\"Constellation Design for Color-Shift Keying Using Interior Point Methods\",\"authors\":\"E. Monteiro and S. Hranilovic\",\"conference\":\"2012 IEEE Globecom Workshop on Optical Wireless Communications\",\"location\":\"Anaheim, CA, USA\",\"description\":\"December 3, 2012.\",\"display_order\":44}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 9,
+    "category_id": 1,
+    "content": "{\"title\":\"Performance Analysis of Noise Cancellation in a Diversity Combined ACO-OFDM System\",\"authors\":\"S.D. Dissanayake, J. Armstrong and S. Hranilovic\",\"conference\":\"Int. Conf. on Transparent Optical Networks (ICTON)\",\"location\":\"University of Warwick, Coventry, UK\",\"description\":\"July 2-5, 2012.\",\"display_order\":43}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 10,
+    "category_id": 1,
+    "content": "{\"title\":\"Information Rates of Solar Blind Non-Line-of-Sight Ultra-Violet Channels with Binary-Input\",\"authors\":\"M.A. Elshimy and S. Hranilovic\",\"conference\":\"IEEE Int. Conf. on Communications\",\"location\":\"Ottawa, Canada\",\"description\":\"June 10-15, 2012.\",\"display_order\":42}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 11,
+    "category_id": 1,
+    "content": "{\"title\":\"Diversity Gain for Near-field MISO Atmospheric Optical Communications\",\"authors\":\"M. Safari and S. Hranilovic\",\"conference\":\"IEEE Int. Conf. on Communications\",\"location\":\"Ottawa, Canada\",\"description\":\"June 10-15, 2012.\",\"display_order\":41}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 12,
+    "category_id": 1,
+    "content": "{\"title\":\"Receiver Design for Asymmetrically Clipped Optical OFDM\",\"authors\":\"K. Asadzadeh, A. Dabbo and S. Hranilovic\",\"conference\":\"2011 IEEE Globecom Workshop on Optical Wireless Communications\",\"location\":\"Austin, USA\",\"description\":\"December 5, 2011.\",\"display_order\":40}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 13,
+    "category_id": 1,
+    "content": "{\"title\":\"Spectrally Factorized Optical OFDM\",\"authors\":\"K. Asadzadeh, A.A. Farid and S. Hranilovic\",\"conference\":\"12th Canadian Workshop on Inform. Theory\",\"location\":\"University of British Columbia, Kelowna, BC, Canada\",\"description\":\"May 17-20, 2011.\",\"display_order\":39}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 14,
+    "category_id": 1,
+    "content": "{\"title\":\"Diversity Gains for MIMO Wireless Optical Intensity Channels With Atmospheric Fading and Misalignment\",\"authors\":\"A.A. Farid, and S. Hranilovic\",\"conference\":\"2010 IEEE Globecom Workshop on Optical Wireless Communications\",\"location\":\"Miami FL, USA\",\"description\":\"December 10, 2010.\",\"display_order\":38}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 15,
+    "category_id": 1,
+    "content": "{\"title\":\"On the Use of Free-Space Optical Links for Latency-Tolerant Traffic Applications\",\"authors\":\"M.Czaputa, S. Hranilovic and E. Leitgeb\",\"conference\":\"Second Colloquium on Optical Wireless Communications, at the 2010 International Symposium on Communication Systems, Networks and Digital Signal Processing (CSNDSP 2010)\",\"location\":\"Newcastle, UK\",\"description\":\"July 21-23, 2010.\",\"display_order\":37}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 16,
+    "category_id": 1,
+    "content": "{\"title\":\"Lower Bounds on the Capacity of Discrete-Time Poisson Channels with Dark Current\",\"authors\":\"J. Cao, S. Hranilovic and J. Chen\",\"conference\":\"25th Biennial Symposium on Commun.\",\"location\":\"Kingston, ON, Canada\",\"description\":\"May 12-14, 2010.\",\"display_order\":36}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 17,
+    "category_id": 1,
+    "content": "{\"title\":\"IDyLL: Indoor Localization using Inertial and Light Sensors on Smartphones\",\"authors\":\"Q. Xu, R. Zheng and S. Hranilovic\",\"conference\":\"ACM Conf. Ubiquitous Computing (UbiComp'15)\",\"location\":\"Osaka, Japan\",\"description\":\"Sept. 7-11, 2015.\",\"display_order\":53}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 18,
+    "category_id": 1,
+    "content": "{\"title\":\"Capacity of Optical Intensity Channels with Peak and Average Power Constraints\",\"authors\":\"Ahmed Farid and Steve Hranilovic\",\"conference\":\"IEEE International Conference on Communications\",\"location\":\"Dresden, Germany\",\"description\":\"June 14-18, 2009.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/papers/icc/ICC_Capacity09.pdf\"}],\"display_order\":34}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 19,
+    "category_id": 1,
+    "content": "{\"title\":\"Receiver Design for Wireless Optical MIMO Channels with Magnification\",\"authors\":\"A. Dabbo, and S. Hranilovic\",\"conference\":\"10th International Conference on Telecommunications (ConTEL) - Special Session on Optical Wireless Communications\",\"location\":\"Zagreb, Croatia\",\"description\":\"pp. 51-58, June 8-10, 2009.\",\"display_order\":33}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 20,
+    "category_id": 1,
+    "content": "{\"title\":\"Link Reliability, Range and Rate Optimization for Free Space Optical Channels\",\"authors\":\"A.A. Farid, and S. Hranilovic\",\"conference\":\"10th International Conference on Telecommunications (ConTEL) - Special Session on Optical Wireless Communications\",\"location\":\"Zagreb, Croatia\",\"description\":\"pp. 19-23, June 8-10, 2009.\",\"display_order\":32}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 21,
+    "category_id": 1,
+    "content": "{\"title\":\"Optical Communication Through Time-Varying Turbulent Atmosphere using Compressive Sensing\",\"authors\":\"M.D.A. Mohamed and S. Hranilovic\",\"conference\":\"11th Canadian Workshop on Inform. Theory\",\"location\":\"Ottawa, Canada\",\"description\":\"pp. 140-143, May 13-15, 2009.\",\"display_order\":31}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 22,
+    "category_id": 1,
+    "content": "{\"title\":\"Compressive Sensing Receiver for Free-Space Optical Communication Through the Atmosphere\",\"authors\":\"Mohamed D.A. Mohamed and Steve Hranilovic\",\"conference\":\"IEEE GLOBECOM\",\"location\":\"New Orleans, LA, USA\",\"description\":\"Nov.30-Dec.4, 2008.\",\"display_order\":30}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 23,
+    "category_id": 1,
+    "content": "{\"title\":\"Gateway Placement in Wireless Mesh Networks Using Free Space Optical Links\",\"authors\":\"M.N. Smadi, S.C. Ghosh, A.A. Farid, T.D. Todd and S. Hranilovic\",\"conference\":\"17th International Conference on Computer Communications and Networks (ICCCN 2008)\",\"location\":\"St. Thomas, US Virgin Islands, USA\",\"description\":\"August 4-7 2008.\",\"display_order\":29}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 24,
+    "category_id": 1,
+    "content": "{\"title\":\"BER-Link Availability Design For Fading Free-Space Optical Channels\",\"authors\":\"A.A. Farid and S. Hranilovic\",\"conference\":\"First Colloquium on Optical Wireless Communications, at the 2008 International Symposium on Communication Systems, Networks and Digital Signal Processing (CSNDSP 2008)\",\"location\":\"Graz, Austria\",\"description\":\"July 23-25, 2008.\",\"display_order\":28}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 25,
+    "category_id": 1,
+    "content": "{\"title\":\"Design of Non-Uniform Capacity-Approaching Signaling for Optical Wireless Intensity Channels\",\"authors\":\"Ahmed A. Farid and Steve Hranilovic\",\"conference\":\"IEEE International Symposium on Information Theory\",\"location\":\"Toronto, Canada\",\"description\":\"July 6 - 11, 2008.\",\"display_order\":27}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 26,
+    "category_id": 1,
+    "content": "{\"title\":\"Multilevel Error Diffusion for Wireless Optical MIMO Channels\",\"authors\":\"A. Dabbo and S. Hranilovic\",\"conference\":\"24th Biennial Symposium on Commun.\",\"location\":\"Kingston, ON, Canada\",\"description\":\"pp. 208-211, June 24-26, 2008.\",\"display_order\":26}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 27,
+    "category_id": 1,
+    "content": "{\"title\":\"Information Rates of Optical Impulse Modulation over Indoor Diffuse Wireless Channels\",\"authors\":\"M.D.A. Mohamed and S. Hranilovic\",\"conference\":\"24th Biennial Symposium on Commun.\",\"location\":\"Kingston, ON, Canada\",\"description\":\"pp. 196-199, June 24-26, 2008.\",\"display_order\":25}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 28,
+    "category_id": 1,
+    "content": "{\"title\":\"Outage Capacity With Non-Uniform Signaling For Free-Space Optical Channels\",\"authors\":\"A.A. Farid and S. Hranilovic\",\"conference\":\"24th Biennial Symposium on Commun.\",\"location\":\"Kingston, ON, Canada\",\"description\":\"pp.204-207, June 24-26, 2008.\",\"display_order\":24}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 29,
+    "category_id": 1,
+    "content": "{\"title\":\"MIMO Optical Wireless Channels Using Halftoning\",\"authors\":\"Mohamed D.A. Mohamed, Awad Dabbo and Steve Hranilovic\",\"conference\":\"IEEE International Conference on Communications\",\"location\":\"Beijing, China\",\"description\":\"May 19 - 23, 2008.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/papers/icc/IEEEFinalICC08.pdf\"}],\"display_order\":23}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 30,
+    "category_id": 1,
+    "content": "{\"title\":\"Upper and Lower Bounds on the Capacity of Wireless Optical Intensity Channels\",\"authors\":\"Ahmed A. Farid and Steve Hranilovic\",\"conference\":\"IEEE International Symposium on Information Theory\",\"location\":\"Nice, France\",\"description\":\"June 24 - 29, 2007.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/papers/isit/farid_isit07.pdf\"}],\"display_order\":22}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 31,
+    "category_id": 1,
+    "content": "{\"title\":\"Optical Impulse Modulation for Diffuse Indoor Wireless Optical Channels\",\"authors\":\"Mohamed D.A. Mohamed and Steve Hranilovic\",\"conference\":\"IEEE International Conference on Communications\",\"location\":\"Glasgow, Scotland, UK\",\"description\":\"June 24 - 28, 2007.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/papers/icc/IEEEFinal-ICC07-OIM.pdf\"}],\"display_order\":21}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 32,
+    "category_id": 1,
+    "content": "{\"title\":\"Practical OFDM Signalling for Visible Light Communications Using Spatial Summation\",\"authors\":\"M.S.A. Mossaad and S. Hranilovic\",\"conference\":\"27th Biennial Symposium on Commun.\",\"location\":\"Kingston, ON, Canada\",\"description\":\"June 1-3, 2014.\",\"display_order\":51}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 33,
+    "category_id": 1,
+    "content": "{\"title\":\"Outage Probability for Free-Space Optical Systems over Slow Fading Channels with Pointing Errors\",\"authors\":\"A.A. Farid and S. Hranilovic\",\"conference\":\"19th Annual Meeting of the IEEE Lasers and Electro-Optics Society\",\"location\":\"Montreal, Quebec, Canada\",\"description\":\"Oct. 29 - Nov. 2, 2006.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/papers/leos/LeosConf06.pdf\"}],\"display_order\":19}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 34,
+    "category_id": 1,
+    "content": "{\"title\":\"A Slot Antenna for Ultra-Wideband Applications\",\"authors\":\"H.M. Jafari, M.J. Deen, S. Hranilovic and N. Nikolova\",\"conference\":\"IEEE Int. Symp. Antennas Propagat.\",\"location\":\"Albuquerque, New Mexico, USA\",\"description\":\"July 9 - 15, 2006.\",\"display_order\":18}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 35,
+    "category_id": 1,
+    "content": "{\"title\":\"A Dynamic Spot Diffusing Architecture for Indoor Wireless Optical Communications\",\"authors\":\"Farhad Khozeimeh and Steve Hranilovic\",\"conference\":\"IEEE International Conference on Communications\",\"location\":\"Istanbul, Turkey\",\"description\":\"June 11 - 15, 2006.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/papers/icc/KhozeimehICC06.pdf\"}],\"display_order\":17}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 36,
+    "category_id": 1,
+    "content": "{\"title\":\"Optical Power Reduction for Multiple-Subcarrier Modulated Indoor Wireless Optical Channels\",\"authors\":\"Weiwei Kang and Steve Hranilovic\",\"conference\":\"IEEE International Conference on Communications\",\"location\":\"Istanbul, Turkey\",\"description\":\"June 11 - 15, 2006.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/papers/icc/KangICC06.pdf\"}],\"display_order\":16}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 37,
+    "category_id": 1,
+    "content": "{\"title\":\"Time Domain Analysis of UWB Breast Cancer Detection\",\"authors\":\"W. Liu, H.M. Jafari, S. Hranilovic and M.J. Deen\",\"conference\":\"23rd Biennial Symposium on Commun.\",\"location\":\"Kingston, ON, Canada\",\"description\":\"pp. 336-339, May 29-June 1, 2006.\",\"display_order\":15}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 38,
+    "category_id": 1,
+    "content": "{\"title\":\"In-Band Coding for Power Reduction In Multiple-Subcarrier Modulated Wireless Optical Systems\",\"authors\":\"W. Kang and S. Hranilovic\",\"conference\":\"23rd Biennial Symposium on Commun.\",\"location\":\"Kingston, ON, Canada\",\"description\":\"pp. 96-99, May 29-June 1, 2006.\",\"display_order\":14}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 39,
+    "category_id": 1,
+    "content": "{\"title\":\"Minimum Bandwidth Nyquist and Root-Nyquist Pulses for Optical Intensity Channels\",\"authors\":\"Steve Hranilovic\",\"conference\":\"IEEE GLOBECOM\",\"location\":\"St.Louis, MO, USA\",\"description\":\"Nov. 28 - Dec. 2, 2005.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/papers/globecom/onyquistGlobecom.pdf\"}],\"display_order\":13}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 40,
+    "category_id": 1,
+    "content": "{\"title\":\"Ultra-Wideband (UWB) Radar Imaging System for Biomedical Applications\",\"authors\":\"Wei Liu, Hamed Mazhab-Jafari, Steve Hranilovic and M. Jamal Deen\",\"conference\":\"12th Canadian Semiconductor Technology Conference\",\"location\":\"Ottawa, Ontario, Canada\",\"description\":\"August 16-19, 2005.\",\"display_order\":12}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 41,
+    "category_id": 1,
+    "content": "{\"title\":\"Optimal Shaping for Optical Intensity Signal Sets\",\"authors\":\"Steve Hranilovic\",\"conference\":\"9th Canadian Workshop on Information Theory\",\"location\":\"Montreal, Quebec, Canada\",\"description\":\"June 5-8, 2005.\",\"display_order\":11}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 42,
+    "category_id": 1,
+    "content": "{\"title\":\"Short-Range Wireless Optical Communication using Pixelated Transmitters and Imaging Receivers\",\"authors\":\"Steve Hranilovic and Frank R. Kschischang\",\"conference\":\"IEEE International Conference on Communications\",\"location\":\"Paris, France\",\"description\":\"June 20 - 24, 2004.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/papers/icc/hranilovicICC04.pdf\"}],\"display_order\":10}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 43,
+    "category_id": 1,
+    "content": "{\"title\":\"An Indoor Wireless Optical MIMO Channel Using Pixelated Arrays of Transmitters and Receivers\",\"authors\":\"Steve Hranilovic and Frank R. Kschischang\",\"conference\":\"22nd Biennial Symposium on Communications\",\"location\":\"Kingston, Ontario, Canada\",\"description\":\"May 31 - June 3, 2004.\",\"display_order\":9}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 44,
+    "category_id": 1,
+    "content": "{\"title\":\"Capacity Achieving Probability Measure of an Input-Bounded Vector Gaussian Channel\",\"authors\":\"Terence H. Chan, Steve Hranilovic and Frank R. Kschischang\",\"conference\":\"IEEE International Symposium on Information Theory\",\"location\":\"Yokohama, Japan\",\"description\":\"June 29 - July 4, 2003.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/papers/isit/chan_isit03.pdf\"}],\"display_order\":8}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 45,
+    "category_id": 1,
+    "content": "{\"title\":\"On the Discreteness of the Capacity Achieving Measure of an Input-Bounded Vector Gaussian Channel\",\"authors\":\"Terence H. Chan, Steve Hranilovic and Frank R. Kschischang\",\"conference\":\"Canadian Workshop on Information Theory\",\"location\":\"Waterloo, Ontario Canada\",\"description\":\"May 18-21, 2003.\",\"links\":[{\"text\":\"Paper (ps)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/papers/cwit/chan_cwit03.ps\"}],\"display_order\":7}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 46,
+    "category_id": 1,
+    "content": "{\"title\":\"Capacity Bounds for Power- and Band-Limited Wireless Infrared Channels Corrupted by Gaussian Noise\",\"authors\":\"Steve Hranilovic and Frank R. Kschischang\",\"conference\":\"Fortieth Annual Allerton Conference on Communication, Control, and Computing\",\"location\":\"University of Illinois at Urbana-Champaign, Allerton House, Monticello, Illinois, USA\",\"description\":\"October 2 - 4, 2002.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/papers/allerton/hranilovic_allerton02.pdf\"}],\"display_order\":6}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 47,
+    "category_id": 1,
+    "content": "{\"title\":\"Upper and Lower Bounds on the Capacity of Wireless Optical Intensity Channels Corrupted by Gaussian Noise\",\"authors\":\"Steve Hranilovic and Frank R. Kschischang\",\"conference\":\"21st Biennial Symposium on Communications\",\"location\":\"Kingston, Ontario, Canada\",\"description\":\"June 2 - 5, 2002.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/papers/queens/hranilovic_queens02.pdf\"}],\"display_order\":5}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 48,
+    "category_id": 1,
+    "content": "{\"title\":\"Signal Constellation Design for Optical Intensity Modulated Channels\",\"authors\":\"Steve Hranilovic and Frank R. Kschischang\",\"conference\":\"IEEE International Symposium on Information Theory\",\"location\":\"Washington D.C., USA\",\"description\":\"June 24 - 29, 2001.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/papers/isit/hranilovic_isit01.pdf\"}],\"display_order\":4}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 49,
+    "category_id": 1,
+    "content": "{\"title\":\"A Signal Space Model for Intensity Modulated Channels\",\"authors\":\"Steve Hranilovic and Frank R. Kschischang\",\"conference\":\"20th Biennial Symposium on Communications\",\"location\":\"Kingston, Ontario, Canada\",\"description\":\"May 28 - 31, 2000.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/papers/queens/hranilovic_queens00.pdf\"}],\"display_order\":3}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 50,
+    "category_id": 1,
+    "content": "{\"title\":\"A Multilevel Modulation Scheme for High-Speed Wireless Infrared Communications\",\"authors\":\"Steve Hranilovic and David A. Johns\",\"conference\":\"IEEE International Symposium on Circuits and Systems\",\"location\":\"Orlando, Florida, USA\",\"description\":\"May 31 - June 2, 1999.\",\"award\":\"Student Paper Competition Award Winner\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/papers/iscas/iscas99.pdf\"},{\"text\":\"Slides (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/papers/iscas/iscas99_slides.pdf\"}],\"display_order\":2}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 51,
+    "category_id": 1,
+    "content": "{\"title\":\"Transcritical and Hopf Bifurcations in AC/DC Systems\",\"authors\":\"Claudio A. Cañizares and Steve Hranilovic\",\"conference\":\"Bulk Power System Voltage Phenomena-III Seminar\",\"location\":\"NSF/ECC Inc., Davos, Switzerland\",\"description\":\"August 1994.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/papers/hopf/trans.pdf\"}],\"display_order\":1}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 106,
+    "category_id": 1,
+    "content": "{\"title\":\"WLAN Mesh Network Interference Management Using FSO Link Deployment\",\"authors\":\"V. Rajakumar, M.N. Smadi, S.C. Ghosh, T.D. Todd and S. Hranilovic\",\"conference\":\"3rd International Conference on Wireless and Mobile Communications (ICWMC'07)\",\"location\":\"Guadeloupe, French Caribbean\",\"description\":\"March 4-9, 2007.\",\"display_order\":20}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 107,
+    "category_id": 1,
+    "content": "{\"title\":\"Short-Length Raptor Codes for Mobile Free-Space Optical Channels\",\"authors\":\"Wenzhe Zhang and Steve Hranilovic\",\"conference\":\"IEEE International Conference on Communications\",\"location\":\"Dresden, Germany\",\"description\":\"June 14-18, 2009.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/papers/icc/ICC_MobileFSO09.pdf\"}],\"display_order\":35}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 108,
+    "category_id": 1,
+    "content": "{\"title\":\"A Two-Dimensional Signal Space for Bandlimited Optical Intensity Channels\",\"authors\":\"D. Zhang and S. Hranilovic\",\"conference\":\"First Workshop on Visible Light Communications and Networking (VLCN) held at IEEE Int. Conf. on Communications\",\"location\":\"London, UK\",\"description\":\"June 7-12, 2015.\",\"display_order\":52}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  }
+]

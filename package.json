@@ -1,0 +1,105 @@
+{
+    "name": "focal",
+    "productName": "Focal",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Focal Desktop Management Software",
+    "author": "Xingchen Wei <weixingchensimon@gmail.com>",
+    "main": "main.js",
+    "devDependencies": {
+        "concurrently": "^8.2.2",
+        "electron": "^23.0.0",
+        "electron-builder": "^24.13.3",
+        "nodemon": "^3.1.3"
+    },
+    "scripts": {
+        "start": "nodemon server/index.js",
+        "start:electron": "electron .",
+        "start:build_and_run_electron": "npm run build:client:SA && electron .",
+        "build:client:SA": "cd client && npm run build:ECESA",
+        "clean": "rimraf dist",
+        "build:server": "cd server && pkg index.js --targets node16-win-x64 --output server.exe",
+        "dist": "npm install && npm run clean && npm run build:server && npm run build:client:SA && npm install sqlite3@5.0.2 && electron-builder",
+        "server": "nodemon server/index.js",
+        "client": "npm start --prefix client",
+        "client:ECESA": "npm run start:ECESA --prefix client",
+        "client:ECEWEB": "npm run start:ECEWEB --prefix client",
+        "dev": "concurrently \"npm run client\" \"npm run server\"",
+        "dev:ECESA": "concurrently \"npm run client:ECESA\" \"npm run server\"",
+        "dev:ECEWEB": "concurrently \"npm run client:ECEWEB\" \"npm run server\""
+    },
+    "build": {
+        "appId": "com.simonoren.focal",
+        "files": [],
+        "extraResources": [
+            {
+                "from": "server/server.exe",
+                "to": "server.exe"
+            },
+            {
+                "from": "node_modules/sqlite3",
+                "to": "node_modules/sqlite3",
+                "filter": [
+                    "**/*"
+                ]
+            },
+            {
+                "from": "focal_database.sqlite_back",
+                "to": "focal_database.sqlite"
+            },
+            {
+                "from": "server/uploads",
+                "to": "server/uploads",
+                "filter": [
+                    "**/*"
+                ]
+            },
+            {
+                "from": "server/config/config.js",
+                "to": "server/config/config.js",
+                "filter": [
+                    "**/*"
+                ]
+            },
+            {
+                "from": "client/build",
+                "to": "client/build",
+                "filter": [
+                    "**/*"
+                ]
+            }
+        ],
+        "directories": {
+            "buildResources": "assets"
+        },
+        "win": {
+            "target": "nsis",
+            "icon": "assets/icon.ico",
+            "requestedExecutionLevel": "requireAdministrator"
+        },
+        "nsis": {
+            "oneClick": false,
+            "perMachine": true,
+            "allowToChangeInstallationDirectory": true,
+            "createDesktopShortcut": true,
+            "createStartMenuShortcut": true,
+            "shortcutName": "Focal",
+            "installerIcon": "assets/icon.ico",
+            "uninstallerIcon": "assets/icon.ico"
+        }
+    },
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "check-disk-space": "^3.4.0",
+        "cors": "^2.8.5",
+        "express": "^4.19.2",
+        "jsonwebtoken": "^9.0.2",
+        "multer": "^1.4.5-lts.1",
+        "node-schedule": "^2.1.1",
+        "nodemailer": "^6.9.14",
+        "sqlite3": "^5.0.2",
+        "sudo-prompt": "^9.2.1",
+        "winston": "^3.13.0",
+        "winston-daily-rotate-file": "^5.0.0"
+    }
+}

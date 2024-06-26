@@ -1,0 +1,174 @@
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+
+.layout {
+  min-height: 100vh;
+  background-color: #f0f2f5; /* 灰色背景 */
+}
+
+.header {
+  background-color: #ffffff; /* 白色背景 */
+  padding: 0 20px; /* 增加左右内边距 */
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  height: 64px; /* 确保容器高度足够 */
+}
+
+.logo {
+  width: 100px;
+  height: 40px; /* 调整图标高度 */
+  margin-right: 10px; /* 增加图标和文字之间的间距 */
+}
+
+.logo-text {
+  color: #000;
+  font-size: 18px; /* 调整字体大小 */
+  font-weight: bold; /* 加粗字体 */
+  margin-left: 10px; /* 增加文字与图标之间的间距 */
+}
+
+.menu-right {
+  flex-grow: 1;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.site-layout-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: calc(100vh - 64px); /* 减去 header 的高度 */
+  background: url('../../assets/images/BackGroundHome.jpg') no-repeat center center/cover; /* 设置背景图片 */
+}
+
+.background-animation {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.animation-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #fff; /* 白色文字，确保在深色背景上清晰可见 */
+}
+
+.animation-overlay h1 {
+  font-size: 40px;
+  margin-bottom: 10px;
+  color: #fff; /* 白色标题 */
+  white-space: normal; /* 控制文本换行方式 */
+  width: 100%;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* 添加阴影 */
+  white-space: nowrap;
+  line-height: 0.8;
+}
+
+.animation-overlay p {
+  font-size: 20px;
+  margin-bottom: 32px;
+  color: #fff; /* 白色文字 */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* 添加阴影 */
+  line-height: 0.1;
+}
+
+.new-content-section {
+  width: 100%;
+  background-color: #ffffff;
+  padding: 20px 0;
+}
+
+.content-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.content-item {
+  flex: 1 1 300px; /* 宽度最小为300px，允许换行 */
+  max-width: 430px;
+  margin: 20px;
+  text-align: center;
+}
+
+.content-item img {
+  width: 120px;
+  height: 120px;
+  margin-bottom: 20px;
+}
+
+.content-item h2 {
+  font-size: 20px;
+  margin-bottom: 16px;
+}
+
+.content-item p {
+  font-size: 14px;
+  color: #3a3939;
+  line-height: 1.6;
+  margin: 0 10px;
+}
+
+@media (max-width: 767px) {
+  .header {
+    padding: 0 10px; /* 调整小屏幕的左右内边距 */
+  }
+
+  .logo {
+    width: 100px; /* 调整小屏幕上的 logo 大小 */
+    height: 30px;
+  }
+
+  .logo-text {
+    font-size: 20px; /* 调整小屏幕上的字体大小 */
+  }
+
+  .animation-overlay h1 {
+    font-size: 26px; /* 调整小屏幕上的标题字体大小 */
+    width: 90%;
+  }
+
+  .animation-overlay p {
+    font-size: 14px; /* 调整小屏幕上的描述文字字体大小 */
+  }
+
+  .content-container {
+    flex-direction: column; /* 小屏幕上内容垂直排列 */
+    align-items: center;
+  }
+
+  .content-item {
+    margin: 10px; /* 调整小屏幕上的内容间距 */
+  }
+
+  .content-item img {
+    width: 100px; /* 调整小屏幕上的图标大小 */
+    height: 100px;
+  }
+
+  .content-item h2 {
+    font-size: 18px; /* 调整小屏幕上的标题字体大小 */
+  }
+
+  .content-item p {
+    font-size: 14px; /* 调整小屏幕上的文字字体大小 */
+    margin: 0 10px;
+  }
+}

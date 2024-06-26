@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "id": 1,
+      "param": "Tutorial-on-Using-the-Rich-Text-Editor",
+      "title": "Tutorial on Using the Rich Text Editor for Dr. Steve Hranilovic's Lab Homepage",
+      "created_at": "2024-06-24 14:47:34",
+      "updated_at": "2024-06-24T14:47:34.990Z",
+      "deleted_at": null
+    },
+    {
+      "id": 2,
+      "param": "722362787246150fbbaf3acfc0cc400fd8fda4a4ee347a2537634d3749a3534c",
+      "title": "Terrestrial Wireless Optical Systems",
+      "created_at": "2024-06-24 14:47:34",
+      "updated_at": "2024-06-24T14:47:34.996Z",
+      "deleted_at": null
+    },
+    {
+      "id": 3,
+      "param": "48869d0905c93f66265de762fb9b35d4283f4f24b1203ccbe11491b0a242cda1",
+      "title": "Academic Research into Wireless Optical Communications",
+      "created_at": "2024-06-24 14:47:34",
+      "updated_at": "2024-06-24T14:47:34.999Z",
+      "deleted_at": null
+    },
+    {
+      "id": 4,
+      "param": "69ea050f1af5686438bf6a68cb776981b540dadcc236c7c2c04a12794d98294e",
+      "title": "EE 4OI6 Course Information",
+      "created_at": "2024-06-24 14:47:34",
+      "updated_at": "2024-06-24T14:47:35.004Z",
+      "deleted_at": null
+    },
+    {
+      "id": 5,
+      "param": "24e31881d5d4cc5e1df28a57eab0aeee07cd4d25d8e55f49e345b68a608176f4",
+      "title": "Latest Research",
+      "created_at": "2024-06-24 14:47:35",
+      "updated_at": "2024-06-24T14:47:35.007Z",
+      "deleted_at": null
+    },
+    {
+      "id": 6,
+      "param": "2ad5e82a5737deeb698dfcfbb4624f604b3eb59f5fc2c8326775d1e2a1e65012",
+      "title": "The Message Is in the Light",
+      "created_at": "2024-06-24 14:47:35",
+      "updated_at": "2024-06-24T14:47:35.011Z",
+      "deleted_at": null
+    }
+  ]
+}

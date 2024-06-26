@@ -1,0 +1,18 @@
+[
+  {
+    "id": 52,
+    "category_id": 2,
+    "content": "{\"title\":\"Wireless Optical Communication Systems\",\"authors\":\"Steve Hranilovic\",\"description\":\"Springer, New York, NY, 2004. (197 pages, ISBN 0387227849).\",\"image\":\"./upload_files/Publications/origin-BookCover_WirelessOpticalCommunicationSystems.jpg\",\"links\":[{\"text\":\"Publisher's Website\",\"url\":\"https://link.springer.com/book/10.1007/b99592\"}],\"display_order\":2}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 53,
+    "category_id": 2,
+    "content": "{\"title\":\"Chapter 6. Multiple-Input/Multiple-Output Techniques for Indoor Optical Wireless Communications\",\"authors\":\"S. Hranilovic\",\"description\":\"in Advanced Optical Wireless Communication Systems, S. Arnon, J. Barry, G.K. Karagiannidis, R. Schober and M. Uysal editors, Cambridge University Press, May 2012 (ISBN: 9780521197878).\",\"image\":\"./upload_files/Publications/origin-BookCover_AdvancedOpticalWirelessCommunicationSystems.jpg\",\"year\":\"2012\",\"links\":[{\"text\":\"Publisher's Website\",\"url\":\"https://www.cambridge.org/us/universitypress/subjects/engineering/communications-and-signal-processing/advanced-optical-wireless-communication-systems?format=HB&isbn=9780521197878\"}],\"display_order\":1}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  }
+]

@@ -1,0 +1,307 @@
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+
+.layout {
+  min-height: 100vh;
+  background-color: #f0f2f5; /* 灰色背景 */
+}
+
+.header {
+  background-color: #ffffff; /* 白色背景 */
+  padding: 0 50px; /* 增加左右内边距 */
+}
+
+.content-page-background {
+  position: relative;
+  width: 100%;
+  height: 30vh; /* 背景图高度 */
+  background: url('../../assets/images/BackGroundContentPage.jpg') no-repeat center center/cover; /* 设置背景图片 */
+}
+
+.content-page-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #fff; /* 白色文字，确保在深色背景上清晰可见 */
+}
+
+.content-page {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+}
+
+.content-card {
+  width: 100%;
+  max-width: 1000px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  background-color: #ffffff;
+  overflow: hidden; /* 确保内容不溢出 */
+}
+
+.content-card .page-title {
+  font-size: 40px; /* 更大的字体 */
+  margin-bottom: 16px;
+  font-weight: bold; /* 加粗 */
+}
+
+.update-time {
+  font-size: 14px;
+  margin-bottom: 24px;
+  color: #888; /* 灰色文字 */
+}
+
+.content-body {
+  font-size: 16px;
+  max-width: 100%; /* 限制内容宽度 */
+  word-wrap: break-word; /* 自动换行 */
+  overflow: auto; /* 超出时出现滚动条 */
+}
+
+/* 确保代码块有一个背景颜色和适当的间距 */
+pre.ql-syntax {
+  background-color: #282c34; /* 深色背景 */
+  color: #ffffff; /* 白色文字 */
+  padding: 10px;
+  border-radius: 5px;
+  overflow-x: auto;
+  font-family: monospace;
+}
+
+/* Headers */
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h6 {
+  font-size: 14px; /* 根据需要调整字体大小 */
+}
+
+/* Font */
+.ql-font-serif {
+  font-family: serif;
+}
+
+.ql-font-monospace {
+  font-family: monospace;
+}
+
+/* Size */
+.ql-size-small {
+  font-size: 12px;
+}
+
+.ql-size-large {
+  font-size: 24px;
+}
+
+.ql-size-huge {
+  font-size: 36px;
+}
+
+/* Bold */
+.ql-bold {
+  font-weight: bold;
+}
+
+/* Italic */
+.ql-italic {
+  font-style: italic;
+}
+
+/* Underline */
+.ql-underline {
+  text-decoration: underline;
+}
+
+/* Strike */
+.ql-strike {
+  text-decoration: line-through;
+}
+
+/* Blockquote */
+blockquote {
+  border-left: 2px solid #ccc;
+  margin-left: 0;
+  padding-left: 10px;
+}
+
+
+
+/* Align */
+.ql-align-left {
+  text-align: left;
+}
+
+.ql-align-center {
+  text-align: center;
+}
+
+.ql-align-right {
+  text-align: right;
+}
+
+.ql-align-justify {
+  text-align: justify;
+}
+
+/* Indentation */
+.ql-indent-1 {
+  padding-left: 20px;
+}
+
+.ql-indent-2 {
+  padding-left: 40px;
+}
+
+.ql-indent-3 {
+  padding-left: 60px;
+}
+
+.ql-indent-4 {
+  padding-left: 80px;
+}
+
+.ql-indent-5 {
+  padding-left: 100px;
+}
+
+.ql-indent-6 {
+  padding-left: 120px;
+}
+
+.ql-indent-7 {
+  padding-left: 140px;
+}
+
+.ql-indent-8 {
+  padding-left: 160px;
+}
+
+pre.ql-syntax {
+  background-color: #282c34; /* 深色背景 */
+  color: #ffffff; /* 白色文字 */
+  padding: 10px;
+  border-radius: 5px;
+  overflow-x: auto;
+  font-family: monospace;
+  position: relative; /* 确保复制按钮正确定位 */
+}
+
+/* 复制按钮的样式 */
+.prism-toolbar {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  background: transparent;
+}
+
+.prism-toolbar a {
+  color: #fff;
+  background: #333;
+  padding: 5px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+/* Lists */
+ul, ol {
+  padding-left: 20px; /* Base padding for first-level list items */
+  list-style-position: inside; /* Ensure bullets are inside the padding */
+}
+
+ul ul, ol ol, ul ol, ol ul {
+  padding-left: 20px; /* Additional padding for nested list items */
+  list-style-position: inside; /* Ensure bullets are inside the padding */
+}
+
+ul > li.ql-indent-1,
+ol > li.ql-indent-1 {
+  margin-left: 20px; /* Indentation for first level nested list */
+}
+
+ul > li.ql-indent-2,
+ol > li.ql-indent-2 {
+  margin-left: 40px;
+}
+
+ul > li.ql-indent-3,
+ol > li.ql-indent-3 {
+  margin-left: 60px;
+}
+
+ul > li.ql-indent-4,
+ol > li.ql-indent-4 {
+  margin-left: 80px;
+}
+
+ul > li.ql-indent-5,
+ol > li.ql-indent-5 {
+  margin-left: 100px;
+}
+
+ul > li.ql-indent-6,
+ol > li.ql-indent-6 {
+  margin-left: 120px;
+}
+
+ul > li.ql-indent-7,
+ol > li.ql-indent-7 {
+  margin-left: 140px;
+}
+
+ul > li.ql-indent-8,
+ol > li.ql-indent-8 {
+  margin-left: 160px;
+}
+@media (max-width: 768px) {
+  .header {
+    padding: 0 10px; /* 减少左右内边距 */
+  }
+
+  .content-page {
+    padding: 10px; /* 减少页面的内边距 */
+  }
+
+  .content-card {
+    padding: 5px; /* 减少卡片的内边距 */
+    width: 100%; /* 使卡片在小屏幕上占满宽度 */
+    max-width: none; /* 移除最大宽度限制 */
+    box-shadow: none; /* 去掉阴影以减少视觉干扰 */
+  }
+
+  .content-card .page-title {
+    font-size: 28px; /* 调整标题字体大小 */
+    margin-bottom: 12px;
+  }
+
+  .update-time {
+    font-size: 12px; /* 调整更新时间字体大小 */
+    margin-bottom: 20px;
+  }
+
+  .content-body {
+    font-size: 14px; /* 调整内容字体大小 */
+  }
+
+  .content-page-background {
+    height: 20vh; /* 调整背景图高度 */
+  }
+
+  .content-page-overlay {
+    top: 40%; /* 调整覆盖层位置 */
+  }
+}

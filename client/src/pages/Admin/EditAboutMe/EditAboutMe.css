@@ -1,0 +1,38 @@
+.edit-about-me {
+    padding: 24px;
+    background: #fff;
+  }
+  
+  .edit-about-me h2 {
+    margin-bottom: 24px;
+  }
+  
+  .admin-dashboard-content {
+    padding: 24px;
+    background: #f0f2f5;
+  }
+  
+  .user-info {
+    margin-bottom: 24px;
+  }
+  
+  .user-info h2 {
+    margin: 0;
+  }
+  
+  .ant-card {
+    margin-bottom: 24px;
+  }
+  
+  .ant-divider {
+    margin: 24px 0;
+  }
+  
+  .sub-section-preview {
+    margin-top: 16px;
+    padding: 16px;
+    background: #f9f9f9;
+    border: 1px solid #d9d9d9;
+    border-radius: 4px;
+  }
+  

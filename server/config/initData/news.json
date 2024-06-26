@@ -1,0 +1,135 @@
+[
+    {
+      "title": "Interviewed and quoted as an expert in free-space optics",
+      "description": "Interviewed and quoted as an expert in free-space optics for IEEE Spectrum magazine article Moonbeams by the Megabyte on the NASA Lunar Laser Communication Demonstration (LLCD).",
+      "links": [
+        {
+          "url": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6587171",
+          "label": "Full Article"
+        }
+      ],
+      "date": "2013-07-01 00:00:00",
+      "image": "./uploads/images/news&resources/origin-news-1.jpg"
+    },
+    {
+      "title": "Positive book review for first edition of my book",
+      "description": "Positive book review for first edition of my book in IEEE Wireless Communications.",
+      "links": [
+        {
+          "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6549276",
+          "label": "Full Review"
+        }
+      ],
+      "date": "2013-06-01 00:00:00",
+      "image": "./uploads/images/news&resources/origin-news-2.jpg"
+    },
+    {
+      "title": "NSERC research funding approved",
+      "description": "Natural Sciences and Engineering Research Council of Canada research funding approved for project on Visible Light Communications with principle investigator Dr. Steve Hranilovic and co-investigator Dr. Lutz Lampe (U British Columbia). This $450,000 fund will be used over the next three years to develop novel communication algorithms and experiments, localization techniques as well as vehicle-to-vehicle optical experiments.",
+      "links": [
+        {
+          "url": "http://www.nserc.ca",
+          "label": "NSERC"
+        }
+      ],
+      "date": "2012-05-01 00:00:00",
+      "image": "./uploads/images/news&resources/origin-news-3.jpg"
+    },
+    {
+      "title": "Dr. Steve Hranilovic named Editor",
+      "description": "October 2011 - Dr. Steve Hranilovic named Editor of the IEEE Transactions on Communications in the area of Optical Wireless Communications.",
+      "links": [
+      ],
+      "date": "2011-10-01 00:00:00",
+      "image": "./uploads/images/news&resources/origin-news-4.jpg"
+    },
+    {
+      "title": "1st IEEE Workshop on Optical Wireless Communications",
+      "description": "Drs. Kavehrad, Xu and Hranilovic - Organizers and co-Chairs for the 1st IEEE Workshop on Optical Wireless Communications in conjunction with IEEE Globecom 2010, Miami FL USA, Dec. 10, 2010.",
+      "links": [
+        {
+          "url": "http://www.ee.ucr.edu/",
+          "label": "Workshop Details"
+        }
+      ],
+      "date": "2010-12-10 00:00:00",
+      "image": "./uploads/images/news&resources/origin-news-5.jpg"
+    },
+    {
+      "title": "Canadian Foundation for Innovation funding",
+      "description": "Canadian Foundation for Innovation funding for Free-Space Optical Communication Algorithms Laboratory (FOCAL). This $260,000 investment will be used to establish a world-leading FSO testbed at McMaster University.",
+      "links": [
+        {
+          "url": "http://www.innovation.ca",
+          "label": "Innovation"
+        }
+      ],
+      "date": "2009-05-01 00:00:00",
+      "image": "./uploads/images/news&resources/origin-news-6.jpg"
+    },
+    {
+      "title": "Ministry of Research and Innovation funding",
+      "description": "Announcement of Ministry of Research and Innovation, Ontario Research Fund (ORF) funding for the Free-Space Optical Communication Algorithms Laboratory (FOCAL).",
+      "links": [
+      ],
+      "date": "2007-08-13 00:00:00",
+      "image": "./uploads/images/news&resources/origin-news-7.jpg"
+    },
+    {
+      "title": "Invited lecture to the Nortel Networks Institute",
+      "description": "Dr. Hranilovic gives an invited lecture to the Nortel Networks Institute, University of Waterloo.",
+      "links": [
+      ],
+      "date": "2007-06-14 00:00:00",
+      "image": "./uploads/images/news&resources/origin-news-8.jpg"
+    },
+    {
+      "title": "Canada Foundation for Innovation (CFI) funding",
+      "description": "Announcement of Canada Foundation for Innovation (CFI) funding for the Free-Space Optical Communication Algorithms Laboratory (FOCAL).",
+      "links": [
+        {
+          "url": "http://www.innovation.ca/",
+          "label": "Details"
+        }
+      ],
+      "date": "2007-06-08 00:00:00",
+      "image": "./uploads/images/news&resources/origin-news-9.jpg"
+    },
+    {
+      "title": "Government of Ontario Early Researcher Award",
+      "description": "Announcement of Government of Ontario Early Researcher Award.",
+      "links": [
+        {
+          "url": "./#/content-page?param=24e31881d5d4cc5e1df28a57eab0aeee07cd4d25d8e55f49e345b68a608176f4",
+          "label": "Details"
+        }
+      ],
+      "date": "2006-11-07 00:00:00",
+      "image": "./uploads/images/news&resources/origin-news-1.jpg"
+    },
+    {
+      "title": "McMaster University Daily News article",
+      "description": "McMaster University Daily News article on my research program.",
+      "links": [
+        {
+          "url": "./#/content-page?param=2ad5e82a5737deeb698dfcfbb4624f604b3eb59f5fc2c8326775d1e2a1e65012",
+          "label": "Details"
+        }
+      ],
+      "date": "2005-06-27 00:00:00",
+      "image": "./uploads/images/news&resources/origin-news-2.jpg"
+    },
+    {
+      "title": "New Feature Added: Create Custom Web Pages with Unique URL",
+      "description": "Our platform now allows you to create and customize web pages with unique URLs. You can insert these unique URLs into the News & Resources page or share them directly with others, ensuring secure and easy access to your content.",
+      "links": [
+        {
+          "url": "./#/content-page?param=Tutorial-on-Using-the-Rich-Text-Editor",
+          "label": "Tutorial"
+        }
+      ],
+      "date": "2024-06-06 23:47:01",
+      "image": "./uploads/images/news&resources/origin-news-3.jpg"
+    }
+  ]
+  

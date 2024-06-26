@@ -1,0 +1,44 @@
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+
+.layout {
+  min-height: 100vh;
+  background-color: #f0f2f5;
+}
+
+.header {
+  background-color: #ffffff;
+  padding: 0 50px;
+}
+
+.notfound-background {
+  position: relative;
+  width: 100%;
+  height: 50vh;
+  background: url('../../assets/images/BackGroundNotFound.jpg') no-repeat center center/cover;
+}
+
+.notfound-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #fff;
+}
+
+.notfound-text {
+  padding-top: 90px;
+  font-size: 50px;
+  margin-bottom: 16px;
+  color: #fff;
+  text-shadow: 20px 20px 10px rgba(0, 0, 0, 0.7); /* Add shadow */
+}
+
+.redirect-text {
+  font-size: 18px;
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Add shadow */
+}

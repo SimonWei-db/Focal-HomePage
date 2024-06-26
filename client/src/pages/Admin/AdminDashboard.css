@@ -1,0 +1,97 @@
+.layout {
+  min-height: 100vh;
+  background-color: #f0f2f5;
+}
+
+.header {
+  background-color: #ffffff;
+  padding: 0 50px;
+}
+
+.admin-dashboard-content {
+  padding: 50px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.user-info {
+  margin-bottom: 20px;
+}
+
+.user-info h2 {
+  font-size: 24px;
+  margin: 0;
+}
+
+.upload-progress {
+  margin-top: 20px;
+  width: 50%;
+}
+
+.largest-text {
+  font-size: 1.2em; /* 更大字体大小，例如1.2em */
+}
+
+.large-text {
+  font-size: 1.1em; /* 大字体大小，例如1.1em */
+}
+
+/* Media Queries for responsive design */
+@media (max-width: 1200px) {
+  .admin-dashboard-content {
+    padding: 30px;
+  }
+
+  .user-info h2 {
+    font-size: 22px;
+  }
+}
+
+@media (max-width: 768px) {
+  .header {
+    padding: 0 20px; /* 调整头部内边距 */
+  }
+
+  .admin-dashboard-content {
+    padding: 20px;
+  }
+
+  .user-info h2 {
+    font-size: 16px;
+  }
+
+  .tabs-container .ant-tabs-tab {
+    font-size: 14px; /* 调整标签字体大小 */
+  }
+
+  .tabs-container .ant-tabs-nav-list {
+    flex-wrap: wrap; /* 标签换行 */
+  }
+}
+
+.mobile-warning {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: calc(100vh - 160px); /* Adjust this value based on your header and footer heights */
+}
+
+.mobile-warning-content {
+  text-align: center;
+  padding: 12px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.mobile-warning h2 {
+  font-size: 14px;
+  color: #1890ff;
+  margin-bottom: 10px;
+}
+
+.mobile-warning p {
+  font-size: 14px;
+  color: #595959;
+}

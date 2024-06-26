@@ -1,0 +1,304 @@
+/* Global Styles */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+.layout {
+  min-height: 100vh;
+  background-color: #f0f2f5; /* Gray background */
+}
+
+.header {
+  background-color: #ffffff; /* White background */
+  padding: 0 50px; /* Increase left and right padding */
+}
+
+.News-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #fff; /* White text, ensure it is clearly visible on dark background */
+}
+
+.News-overlay h1 {
+  font-size: 48px;
+  margin-bottom: 16px;
+  color: #fff; /* White title */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Add shadow */
+}
+
+.News-background {
+  position: relative;
+  width: 100%;
+  height: 50vh; /* Background image height */
+  background: url('../../assets/images/BackGroundNews.jpg') no-repeat center center/cover; /* Set background image */
+}
+
+.News-content {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%; /* Ensure content area occupies full width */
+}
+
+.custom-tabs .ant-tabs-nav-wrap {
+  justify-content: center;
+}
+
+.custom-tabs .ant-tabs-tab {
+  font-size: 1.2em;
+  padding: 16px;
+  transition: background-color 0.3s ease;
+  border-radius: 8px;
+  margin: 0 5px;
+}
+
+.custom-tabs .ant-tabs-ink-bar {
+  background: linear-gradient(to right, #f0f2f5, #1565c0, #f0f2f5); 
+}
+
+.news-section {
+  width: 100%;
+  max-width: 800px; /* Keep max width for news section */
+}
+
+.resources-section {
+  width: 100%;
+  max-width: 1400px; /* Increase max width for resources section */
+}
+
+.section h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+.card-content {
+  display: flex;
+  flex-direction: row;
+  align-items: center; /* Align vertically center */
+  justify-content: center; /* Center the content within the card */
+  margin: 0 auto; /* Center the entire text and image section */
+}
+
+.card-content.image-right {
+  flex-direction: row-reverse; /* Image on the right */
+}
+
+.card-img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  margin: 0 20px;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-left: 20px;
+}
+
+.card-body.full-width {
+  width: 100%; /* Full width when no image */
+}
+
+.card-title {
+  font-size: 1.5em;
+  margin-bottom: 1px;
+}
+
+.card-description {
+  font-size: 1em;
+  color: #666;
+  margin-bottom: 1px;
+}
+
+.card-date {
+  font-size: 0.9em;
+  color: #999;
+}
+
+/* Update button styles */
+.learn-more-button {
+  width: auto; /* Auto width */
+  max-width: 200px; /* Max width */
+  padding: 10px 20px; /* Adjust padding */
+  font-size: 1em; /* Font size */
+  color: #fff;
+  background: linear-gradient(45deg, #6a11cb 0%, #2575fc 100%);
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  line-height: 1.5; /* Line height */
+  display: flex;
+  align-items: center; /* Align vertically center */
+  justify-content: center; /* Align horizontally center */
+}
+
+.learn-more-button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+  background: linear-gradient(45deg, #6a11cb 100%, #2575fc 30%) !important;
+}
+
+.custom-tab {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px 20px;
+  color: #0d47a1;
+  border-radius: 20px;
+  margin: 0 10px;
+}
+
+.custom-tabs .ant-tabs-tab-active {
+  color: #1890ff;
+  font-weight: bold;
+  background: radial-gradient(ellipse at center, #bbdefb9a 0%, #f0f2f5 70%); 
+}
+
+.custom-tabs .ant-tabs-tab:hover {
+  background: radial-gradient(ellipse at center, #bbdefb9a 0%, #f0f2f5 70%);
+}
+
+/* Table Styles */
+.ant-table {
+  background: #fff;
+  width: 100%;
+  max-width: 100%; /* Ensure table occupies full width */
+  margin: 0 auto;
+  table-layout: auto; /* Use auto table layout */
+}
+
+.ant-table-thead > tr > th {
+  background: #f0f2f5;
+  font-weight: bold;
+  font-size: 16px; /* Increase table header font size */
+}
+
+.ant-table-tbody > tr > td {
+  font-size: 14px;
+  word-wrap: break-word; /* Enable word wrapping */
+  white-space: normal; /* Allow line breaks */
+  font-size: 16px; /* Increase table content font size */
+}
+
+.ant-pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+/* Media Queries for responsive design */
+@media (max-width: 1200px) {
+  .news-section {
+    max-width: 100%;
+  }
+
+  .resources-section {
+    max-width: 100%;
+  }
+
+  .card-content {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .card-content.image-right {
+    flex-direction: column;
+  }
+
+  .card-img {
+    margin: 0 0 20px 0;
+  }
+
+  .card-body {
+    padding-left: 0;
+  }
+
+  .custom-tab {
+    font-size: 16px;
+    padding: 8px 16px;
+  }
+
+  .learn-more-button {
+    margin: 0 auto; /* Center the button on medium screens */
+  }
+}
+
+@media (max-width: 768px) {
+  .header {
+    padding: 0 20px; /* Adjust header padding */
+  }
+  .ant-table {
+    overflow-x: auto; /* Enable horizontal scrolling */
+  }
+  .resources-section {
+    overflow-x: auto; /* Ensure the container can scroll horizontally */
+  }
+
+  .News-overlay h1 {
+    font-size: 28px; /* Adjust title font size */
+  }
+
+  .News-content {
+    padding: 10px; /* Adjust content padding */
+  }
+
+  .card-title {
+    font-size: 1.2em;
+  }
+
+  .card-description {
+    font-size: 0.9em;
+  }
+
+  .card-date {
+    font-size: 0.8em;
+  }
+
+  .learn-more-button {
+    font-size: 0.9em;
+    padding: 8px 16px;
+    margin: 20px auto 0 auto; /* Center the button on small screens */
+  }
+
+  .ant-table-thead > tr > th {
+    font-size: 14px;
+  }
+
+  .ant-table-tbody > tr > td {
+    font-size: 12px;
+  }
+  .new-tag {
+    font-size: 8px; /* Adjust the font size as needed */
+  }
+
+  .ant-btn-primary {
+    padding: 4px 8px; /* Compress button padding on small screens */
+    font-size: 12px; /* Reduce button font size */
+  }
+
+  .ant-table-tbody > tr > td {
+    padding: 1px; /* Reduce table cell padding */
+  }
+
+  .custom-tab {
+    font-size: 14px;
+    padding: 6px 12px;
+  }
+  .ant-table-thead > tr > th.icon-column,
+  .ant-table-tbody > tr > td.icon-column {
+    display: none; /* Hide the icon column */
+  }
+}

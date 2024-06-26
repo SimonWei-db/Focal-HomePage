@@ -1,0 +1,148 @@
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+
+.layout {
+  min-height: 100vh;
+  background-color: #f0f2f5; /* 灰色背景 */
+}
+
+.header {
+  background-color: #ffffff; /* 白色背景 */
+  padding: 0 50px; /* 增加左右内边距 */
+}
+
+.contactus-background {
+  position: relative;
+  width: 100%;
+  height: 50vh; /* 背景图高度 */
+  background: url('../../assets/images/BackGroundContactUs.jpg') no-repeat center center/cover; /* 设置背景图片 */
+}
+
+.contactus-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #fff; /* 白色文字，确保在深色背景上清晰可见 */
+}
+
+.contactus-overlay h1 {
+  font-size: 48px;
+  margin-bottom: 16px;
+  color: #fff; /* 白色标题 */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Add shadow */
+}
+
+.contactus-content {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap; /* 允许在小屏幕上换行 */
+  padding: 25px;
+  gap: 17px;
+}
+
+.contact-card {
+  width: 598px;
+  max-width: 100%; /* 确保在小屏幕上不会超出屏幕宽度 */
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  background-color: #ffffff;
+}
+
+.contact-card h2 {
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+.contact-card p {
+  font-size: 16px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  margin-right: 10px;
+  color: #007bff;
+}
+
+.copy-icon {
+  margin-left: 10px;
+  cursor: pointer;
+  color: #D44638;
+  transition: color 0.3s ease;
+}
+
+.copy-icon:hover {
+  color: #b02a2a;
+}
+
+.contact-card a {
+  color: #007bff; /* Blue color to indicate link */
+  transition: color 0.3s ease;
+  text-decoration: none; /* Remove underline */
+}
+
+.contact-card a:hover {
+  color: #0056b3; /* Darker blue on hover */
+  text-decoration: underline; /* Add underline on hover */
+}
+
+/* Media Queries for responsive design */
+@media (max-width: 1200px) {
+  .contactus-content {
+    padding: 30px;
+    gap: 20px;
+  }
+
+  .contact-card {
+    width: 100%; /* 在中等屏幕上占满可用宽度 */
+  }
+
+  .contact-card h2 {
+    font-size: 22px;
+  }
+
+  .contact-card p {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 768px) {
+  .header {
+    padding: 0 20px; /* 调整头部内边距 */
+  }
+
+  .contactus-overlay h1 {
+    font-size: 28px; /* 调整标题字体大小 */
+  }
+
+  .contactus-content {
+    padding: 20px;
+    gap: 10px;
+  }
+
+  .contact-card {
+    width: 100%; /* 在小屏幕上占满可用宽度 */
+  }
+
+  .contact-card h2 {
+    font-size: 20px;
+  }
+
+  .contact-card p {
+    font-size: 14px;
+  }
+
+  .icon {
+    margin-right: 8px;
+  }
+
+  .copy-icon {
+    margin-left: 8px;
+  }
+}

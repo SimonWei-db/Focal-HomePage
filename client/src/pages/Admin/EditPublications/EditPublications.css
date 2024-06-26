@@ -1,0 +1,51 @@
+.edit-publications {
+  padding: 24px;
+  background: #fff;
+}
+
+.edit-publications h2 {
+  margin-bottom: 24px;
+}
+
+.spin-center {
+  display: block;
+  margin-top: 20%;
+}
+
+.category-title {
+  font-weight: bold;
+  color: #1890ff;
+  font-size: 20px;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.bold-button {
+  font-weight: bold;
+}
+
+.save-button {
+  margin-top: 16px;
+}
+
+.reset-button {
+  margin-top: 16px;
+  margin-left: 8px;
+}
+
+.item-content {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.thumbnail {
+  width: 50px;
+  margin-right: 10px;
+}
+
+.item-text {
+  flex: auto;
+}

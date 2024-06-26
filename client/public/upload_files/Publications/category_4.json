@@ -1,0 +1,18 @@
+[
+  {
+    "id": 54,
+    "category_id": 4,
+    "content": "{\"title\":\"Spectrally Efficient Signalling for Wireless Optical Intensity Channels\",\"authors\":\"Steve Hranilovic\",\"description\":\"Ph.D., University of Toronto, Canada, 2003.\",\"links\":[{\"text\":\"Abstract (html)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/theses/phd_abstract.html\"}],\"display_order\":2}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 55,
+    "category_id": 4,
+    "content": "{\"title\":\"Modulation and Constrained Coding Techniques for Wireless Infrared Communication Channels\",\"authors\":\"Steve Hranilovic\",\"description\":\"M.A.Sc., University of Toronto, Canada, 1999.\",\"links\":[{\"text\":\"Abstract (html)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/theses/masc_abstract.html\"}],\"display_order\":1}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  }
+]

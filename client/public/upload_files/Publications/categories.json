@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Refereed Conference Proceedings",
+    "category_order": 4,
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 2,
+    "name": "Books",
+    "category_order": 1,
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 3,
+    "name": "Invited Conference Proceedings",
+    "category_order": 3,
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 4,
+    "name": "Theses",
+    "category_order": 5,
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 5,
+    "name": "Journal Articles",
+    "category_order": 2,
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  }
+]

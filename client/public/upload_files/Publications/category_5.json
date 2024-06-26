@@ -1,0 +1,362 @@
+[
+  {
+    "id": 56,
+    "category_id": 5,
+    "content": "{\"title\":\"Bandlimited Optical Intensity Modulation Under Average and Peak Power Constraints\",\"authors\":\"D. Zhang and S. Hranilovic\",\"journal\":\"IEEE Transactions on Communications\",\"description\":\"vol. 64, no. 9, pp. 3820-3830, September 2016.\",\"display_order\":45}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 57,
+    "category_id": 5,
+    "content": "{\"title\":\"Raptor-Coded Free-Space Optical Communications Experiment\",\"authors\":\"M. Lu, L. Liu and S. Hranilovic\",\"journal\":\"IEEE/OSA Journal of Optical Communications and Networking\",\"description\":\"vol. 8, no. 6, pp. 398-407, June 2016.\",\"display_order\":44}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 58,
+    "category_id": 5,
+    "content": "{\"title\":\"Visible Light Communications Using OFDM and Multiple LEDs\",\"authors\":\"M.S.A. Mossaad, S. Hranilovic and L. Lampe\",\"journal\":\"IEEE Transactions on Communications\",\"description\":\"vol. 63, no. 11, pp. 4304-4313, November 2015.\",\"display_order\":43}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 59,
+    "category_id": 5,
+    "content": "{\"title\":\"Coordinated Broadcasting for Multiuser Indoor Visible Light Communication Systems\",\"authors\":\"H. Ma, L. Lampe and S. Hranilovic\",\"journal\":\"IEEE Transactions on Communications\",\"description\":\"vol. 63, no. 9, pp. 3313-3324, September 2015.\",\"display_order\":42}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 60,
+    "category_id": 5,
+    "content": "{\"title\":\"Spatial-Diversity Imaging Receivers for Non-Line- of-Sight Solar-Blind UV Communications\",\"authors\":\"M.A. El-Shimy and S. Hranilovic\",\"journal\":\"IEEE/OSA Journal of Lightwave Technology\",\"description\":\"vol. 33, no. 11, pp. 2246-2255, March 20, 2015.\",\"display_order\":41}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 61,
+    "category_id": 5,
+    "content": "{\"title\":\"On the Use of Photon Arrival-Times for Non-Line-of- Sight Solar-Blind UV Channels\",\"authors\":\"M.A. El-Shimy and S. Hranilovic\",\"journal\":\"IEEE Communications Letters\",\"description\":\"vol. 18, no. 6, pp. 913-916, June 2014.\",\"display_order\":40}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 62,
+    "category_id": 5,
+    "content": "{\"title\":\"Design and Implementation of Color-Shift Keying for Visible Light Communications\",\"authors\":\"E. Monteiro and S. Hranilovic\",\"journal\":\"IEEE/OSA Journal of Lightwave Technology\",\"description\":\"vol. 32, no. 10, pp. 2053-2060, May 15, 2014.\",\"display_order\":39}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 63,
+    "category_id": 5,
+    "content": "{\"title\":\"Capacity-Achieving Distributions for the Discrete- Time Poisson Channel - Part II: Binary Inputs\",\"authors\":\"J. Cao, S. Hranilovic and J. Chen\",\"journal\":\"IEEE Transactions on Communications\",\"description\":\"vol. 62, no. 1, pp. 203-213, January 2014.\",\"display_order\":38}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 64,
+    "category_id": 5,
+    "content": "{\"title\":\"Capacity-Achieving Distributions for the Discrete- Time Poisson Channel - Part I: General Properties and Numerical Techniques\",\"authors\":\"J. Cao, S. Hranilovic and J. Chen\",\"journal\":\"IEEE Transactions on Communications\",\"description\":\"vol. 62, no. 1, pp. 194-202, January 2014.\",\"display_order\":37}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 65,
+    "category_id": 5,
+    "content": "{\"title\":\"Discreteness of Sum-Capacity-Achieving Distributions for Discrete-Time Poisson Multiple Access Channels with Peak Constraints\",\"authors\":\"J. Cao, J. Chen and S. Hranilovic\",\"journal\":\"IEEE Communications Letters\",\"description\":\"vol. 17, no. 1, pp. 1644-1647, August 2013.\",\"display_order\":36}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 66,
+    "category_id": 5,
+    "content": "{\"title\":\"Diversity and Multiplexing for Near-Field Atmospheric Optical Communication\",\"authors\":\"M. Safari and S. Hranilovic\",\"journal\":\"IEEE Transactions on Communications\",\"description\":\"vol. 61, no. 5, pp. 1988-1997, May 2013.\",\"display_order\":35}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 67,
+    "category_id": 5,
+    "content": "{\"title\":\"Capacity and Non-Uniform Signalling for Discrete-Time Poisson Channels\",\"authors\":\"J. Cao, S. Hranilovic and J. Chen\",\"journal\":\"IEEE/OSA Journal of Optical Communications and Networking\",\"description\":\"vol. 5, no. 4, pp. 329-227, April 2013.\",\"display_order\":34}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 68,
+    "category_id": 5,
+    "content": "{\"title\":\"Binary-Input Non-Line-of-Sight Solar-Blind UV Channels: Modeling, Capacity and Coding\",\"authors\":\"M.A. El-Shimy and S. Hranilovic\",\"journal\":\"IEEE/OSA Journal of Optical Communications and Networking\",\"description\":\"vol. 4, no. 12, pp. 1008-1017, December 2012.\",\"display_order\":33}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 69,
+    "category_id": 5,
+    "content": "{\"title\":\"Simulation of Atmospheric Turbulence for Optical Systems with Extended Sources\",\"authors\":\"M. Safari and S. Hranilovic\",\"journal\":\"Applied Optics\",\"description\":\"vol. 51, no. 31, pp. 7509-7515, November 1, 2012.\",\"display_order\":32}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 70,
+    "category_id": 5,
+    "content": "{\"title\":\"Channel Measurement and Markov Modelling of an Urban Free-Space Optical Link\",\"authors\":\"A. Mostafa and S. Hranilovic\",\"journal\":\"IEEE/OSA Journal of Optical Communications and Networking\",\"description\":\"vol. 4, no. 10, pp. 836-846, October 2012.\",\"display_order\":31}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 71,
+    "category_id": 5,
+    "content": "{\"title\":\"Free-Space Optical Links for Latency-Tolerant Traffic\",\"authors\":\"M. Czaputa, S. Hranilovic, S. Sheikh Muhammad, E. Leitgeb\",\"journal\":\"IET Communications\",\"description\":\"vol. 6, no. 5, pp. 507-513, May 2012.\",\"display_order\":30}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 72,
+    "category_id": 5,
+    "content": "{\"title\":\"In-field Demonstration of OFDM-over-FSO\",\"authors\":\"A. Mostafa and S. Hranilovic\",\"journal\":\"IEEE Photonics Technology Letters\",\"description\":\"vol. 24, no. 8, pp.709-711, April 15, 2012.\",\"display_order\":29}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 73,
+    "category_id": 5,
+    "content": "{\"title\":\"A Review of Communication-Oriented Optical Wireless Systems\",\"authors\":\"D.K. Borah, A.C. Boucouvalas, C.C. Davis, S. Hranilovic, K. Yiannopoulos\",\"journal\":\"EURASIP Journal on Wireless Communications and Networking\",\"description\":\"2012:91, 28 pages, March 2012.\",\"display_order\":28}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 74,
+    "category_id": 5,
+    "content": "{\"title\":\"Diversity Gain and Outage Probability for MIMO Free-Space Optical Links with Misalignment\",\"authors\":\"A. A. Farid, and S. Hranilovic\",\"journal\":\"IEEE Transactions on Communications\",\"description\":\"vol. 60, no. 2, pp. 479-487, Feb. 2012.\",\"display_order\":27}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 75,
+    "category_id": 5,
+    "content": "{\"title\":\"Impact of finite receiver-aperture size in a non-line-of-sight single-scatter propagation model\",\"authors\":\"M. A. El-Shimy and S. Hranilovic\",\"journal\":\"Journal of the Optical Society of America A\",\"description\":\"vol. 28, no. 12, pp. 2568-2576, Dec. 2011.\",\"display_order\":26}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 76,
+    "category_id": 5,
+    "content": "{\"title\":\"Outage Capacity for MISO Intensity-Modulated Free-Space Optical Links with Misalignment\",\"authors\":\"A. A. Farid and S. Hranilovic\",\"journal\":\"IEEE/OSA Journal of Optical Communications and Networking\",\"description\":\"vol. 3, no.10, pp. 780-789, Oct. 2011.\",\"display_order\":25}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 77,
+    "category_id": 5,
+    "content": "{\"title\":\"All-Optical Multihop Free-Space Optical Communication Systems\",\"authors\":\"S. Kazemlou, S. Hranilovic and S. Kumar\",\"journal\":\"IEEE/OSA Journal of Lightwave Technology\",\"description\":\"vol. 29, no. 18, pp. 2663-2669, Sept. 15, 2011.\",\"display_order\":24}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 78,
+    "category_id": 5,
+    "content": "{\"title\":\"OOK Performance for Terrestrial FSO Links in Turbulent Atmosphere with Pointing Errors Modeled by Hoyt Distributions\",\"authors\":\"W. Gappmair, S. Hranilovic and E. Leitgeb\",\"journal\":\"IEEE Communications Letters\",\"description\":\"vol. 15, no. 8, pp. 875-877, Aug. 2011.\",\"display_order\":23}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 79,
+    "category_id": 5,
+    "content": "{\"title\":\"Non-line-of-sight single-scatter propagation model for noncoplanar geometries\",\"authors\":\"M. A. El-Shimy and S. Hranilovic\",\"journal\":\"Journal of the Optical Society of America A\",\"description\":\"vol. 28, no. 3, pp. 420-428, March 2011.\",\"display_order\":22}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 80,
+    "category_id": 5,
+    "content": "{\"title\":\"Capacity Bounds for Wireless Optical Intensity Channels with Gaussian Noise\",\"authors\":\"A.A. Farid and S. Hranilovic\",\"journal\":\"IEEE Transactions on Information Theory\",\"description\":\"vol. 56, no. 12, pp. 6066-6077, December 2010.\",\"display_order\":21}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 81,
+    "category_id": 5,
+    "content": "{\"title\":\"Diversity Reception for Deep-Space Optical Communication using Linear Projections\",\"authors\":\"M.D.A. Mohamed and S. Hranilovic\",\"journal\":\"IEEE Journal of Selected Topics in Quantum Electronics\",\"description\":\"Issue on Enabling Technologies for Digital Optical Communication Systems, vol. 16, no. 5, pp. 1071-1083, December 2010.\",\"display_order\":20}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 82,
+    "category_id": 5,
+    "content": "{\"title\":\"Performance of PPM on Terrestrial FSO Links with Turbulence and Pointing Errors\",\"authors\":\"W. Gappmair, S. Hranilovic and E. Leitgeb\",\"journal\":\"IEEE Communications Letters\",\"description\":\"vol. 14, no. 5, pp. 468-470, May 2010.\",\"display_order\":19}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 83,
+    "category_id": 5,
+    "content": "{\"title\":\"Channel Capacity and Non-Uniform Signalling for Free-Space Optical Intensity Channels\",\"authors\":\"Ahmed A. Farid and Steve Hranilovic\",\"journal\":\"IEEE Journal on Selected Areas in Communications\",\"description\":\"vol. 27, no. 9, pp.1553-1563, December 2009.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/articles/09/IEEE-JSAC-Capacity2009.pdf\"}],\"display_order\":18}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 84,
+    "category_id": 5,
+    "content": "{\"title\":\"Soft-Switching Hybrid FSO/RF Links using Short-Length Raptor Codes: Design and Implementation\",\"authors\":\"Wenzhe Zhang, Steve Hranilovic and Ce Shi\",\"journal\":\"IEEE Journal on Selected Areas in Communications\",\"description\":\"vol. 27, no. 9, pp.1698-1708, December 2009.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/articles/09/IEEE-JSAC-HybridFSO2009.pdf\"}],\"display_order\":17}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 85,
+    "category_id": 5,
+    "content": "{\"title\":\"Free-Space Optical Gateway Placement in Hybrid Wireless Mesh Networks\",\"authors\":\"Mohammed N. Smadi, Sasthi C. Ghosh, Ahmed A. Farid, Terence D. Todd and Steve Hranilovic\",\"journal\":\"IEEE/OSA Journal of Lightwave Technology\",\"description\":\"vol. 27, no. 14, pp. 2668-2697, July 15, 2009.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/articles/09/IEEE-JLT-WMN2009.pdf\"}],\"display_order\":16}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 86,
+    "category_id": 5,
+    "content": "{\"title\":\"Dynamic Spot Diffusing Configuration for Indoor Optical Wireless Access\",\"authors\":\"Farhad Khozeimeh and Steve Hranilovic\",\"journal\":\"IEEE Transactions on Communications\",\"description\":\"vol. 57, no. 6, pp.1765-1775, June 2009.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/articles/09/IEEE-TCOM-DSD09.pdf\"}],\"display_order\":15}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 87,
+    "category_id": 5,
+    "content": "{\"title\":\"Optical Impulse Modulation for Indoor Diffuse Wireless Communications\",\"authors\":\"Mohamed D.A. Mohamed and Steve Hranilovic\",\"journal\":\"IEEE Transactions on Communications\",\"description\":\"vol. 57, no. 2, pp. 499-508, February 2009.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/articles/09/TCOM-OIM09.pdf\"}],\"display_order\":14}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 88,
+    "category_id": 5,
+    "content": "{\"title\":\"Interference Management in WLAN Mesh Networks Using Free-Space Optical Links\",\"authors\":\"Valavan Rajakumar, Mohammed N. Smadi, Sasthi C. Ghosh, Terence D. Todd and Steve Hranilovic\",\"journal\":\"IEEE/OSA Journal of Lightwave Technology\",\"description\":\"vol. 26, no. 13, pp. 1735-1743, July 1, 2008.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/articles/08/IEEE_JLTWMN2008.pdf\"}],\"display_order\":13}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 89,
+    "category_id": 5,
+    "content": "{\"title\":\"Power Reduction Techniques for Multiple-Subcarrier Modulated Diffuse Wireless Optical Channels\",\"authors\":\"Weiwei Kang and Steve Hranilovic\",\"journal\":\"IEEE Transactions on Communications\",\"description\":\"vol. 56, no. 2, pp. 279-288, February 2008.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/articles/08/MSM-IEEE08.pdf\"}],\"display_order\":12}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 90,
+    "category_id": 5,
+    "content": "{\"title\":\"Two-Dimensional Binary Halftoned Optical Intensity Channels\",\"authors\":\"Mohamed D.A. Mohamed and Steve Hranilovic\",\"journal\":\"IET Communications\",\"description\":\"Special Issue on Optical Wireless Communication Systems, vol. 2, no. 1, pp. 11-17, January 2008.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/articles/08/IETpaper08.pdf\"},{\"text\":\"Postprint with better quality figures (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/articles/08/halftoning_iee_postprint.pdf\"}],\"display_order\":11}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 91,
+    "category_id": 5,
+    "content": "{\"title\":\"Co-Polarised and Cross-Polarised Antenna Arrays for Breast Cancer Detection\",\"authors\":\"H.M. Jafari, M.J. Deen, S. Hranilovic and N.K. Nikolova\",\"journal\":\"IET Microwaves, Antennas & Propagation\",\"description\":\"vol. 1, no. 5, pp. 1055-1058, October 2007.\",\"display_order\":10}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 92,
+    "category_id": 5,
+    "content": "{\"title\":\"Outage Capacity Optimization for Free-Space Optical Links with Pointing Errors\",\"authors\":\"Ahmed A. Farid and Steve Hranilovic\",\"journal\":\"IEEE/OSA Journal of Lightwave Technology\",\"description\":\"vol. 25, no. 7, pp.1702-1710, July 2007.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/articles/07/jlt06IEEEFinal.pdf\"}],\"display_order\":9}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 93,
+    "category_id": 5,
+    "content": "{\"title\":\"A Study of Ultrawideband Antennas for Near-Field Imaging\",\"authors\":\"H.M. Jafari, M.J. Deen, S. Hranilovic and N.K. Nikolova\",\"journal\":\"IEEE Transactions on Antennas and Propagation\",\"description\":\"vol. 55, no. 4, pp. 1184-1188, April 2007.\",\"display_order\":8}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 94,
+    "category_id": 5,
+    "content": "{\"title\":\"Minimum Bandwidth Optical Intensity Nyquist Pulses\",\"authors\":\"Steve Hranilovic\",\"journal\":\"IEEE Transactions on Communications\",\"description\":\"vol. 55, no. 3, pp.574-583, March 2007.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/articles/07/onyquistIEEEfinal.pdf\"}],\"display_order\":7}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 95,
+    "category_id": 5,
+    "content": "{\"title\":\"A Pixelated MIMO Wireless Optical Communication System\",\"authors\":\"Steve Hranilovic, Frank R. Kschischang\",\"journal\":\"IEEE Journal of Selected Topics in Quantum Electronics\",\"description\":\"Issue on Optical Communications, vol. 12, no. 4, pp.859-874, July/August 2006.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/articles/06/IEEEjstqe06.pdf\"}],\"display_order\":6}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 96,
+    "category_id": 5,
+    "content": "{\"title\":\"Ultra-Wideband (UWB) Radar Imaging System for Biomedical Applications\",\"authors\":\"H. M. Jafari, W. Liu, S. Hranilovic, M. J. Deen\",\"journal\":\"Journal of Vacuum Science and Technology A\",\"description\":\"Special Issue for CSTC 2005, 24(3), pp. 752-757, May/June 2006.\",\"display_order\":5}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 97,
+    "category_id": 5,
+    "content": "{\"title\":\"Capacity-Achieving Probability Measure for Conditionally Gaussian Channels with Bounded Inputs\",\"authors\":\"Terence H. Chan, Steve Hranilovic, Frank R. Kschischang\",\"journal\":\"IEEE Transactions on Information Theory\",\"description\":\"vol. 51, no. 6, pp.2073-2088, June 2005.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/articles/05/ITcap05.pdf\"}],\"display_order\":4}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 98,
+    "category_id": 5,
+    "content": "{\"title\":\"On the Design of Bandwidth Efficient Signalling for Indoor Wireless Optical Channels\",\"authors\":\"Steve Hranilovic\",\"journal\":\"International Journal of Communication Systems\",\"description\":\"Special Issue on Indoor Optical Wireless Communication Systems and Networks, Wiley Interscience, vol. 18, no. 3, pp.205-228, April 2005.\",\"display_order\":3}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 99,
+    "category_id": 5,
+    "content": "{\"title\":\"Capacity Bounds for Power- and Band-Limited Optical Intensity Channels Corrupted by Gaussian Noise\",\"authors\":\"Steve Hranilovic, Frank R. Kschischang\",\"journal\":\"IEEE Transactions on Information Theory\",\"description\":\"vol. 50, no. 5, pp.784-795, May 2004.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/articles/04/hranilovic_it04.pdf\"}],\"display_order\":2}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 100,
+    "category_id": 5,
+    "content": "{\"title\":\"Optical Intensity-Modulated Direct Detection Channels: Signal Space and Lattice Codes\",\"authors\":\"Steve Hranilovic, Frank R. Kschischang\",\"journal\":\"IEEE Transactions on Information Theory\",\"description\":\"vol. 49, no.6, pp.1385-1399, June 2003.\",\"links\":[{\"text\":\"Paper (pdf)\",\"url\":\"https://www.ece.mcmaster.ca/faculty/hranilovic/publications/articles/03/hranilovic_it03.pdf\"}],\"display_order\":1}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  }
+]

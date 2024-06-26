@@ -1,0 +1,42 @@
+[
+  {
+    "id": 101,
+    "category_id": 3,
+    "content": "{\"title\":\"Indoor Localization using Low-Complexity Luminaires and Ambient Light Sensors\",\"authors\":\"E. Edwards and S. Hranilovic\",\"conference\":\"IEEE Photonics Society Summer Topical Meeting Series\",\"location\":\"Newport Beach, CA, USA\",\"description\":\"July 11-13, 2016.\",\"display_order\":5}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 102,
+    "category_id": 3,
+    "content": "{\"title\":\"Amplify-and-Forward Integration of Power Line and Visible Light Communications\",\"authors\":\"M.S.A. Mossaad, S. Hranilovic and L. Lampe\",\"conference\":\"IEEE Global Conference on Signal & Information Processing (GlobalSIP'15)\",\"location\":\"Orlando, FL, USA\",\"description\":\"Dec. 14-16, 2015.\",\"display_order\":4}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 103,
+    "category_id": 3,
+    "content": "{\"title\":\"Turn on the Lights! - Leveraging visible light for communications and positioning\",\"authors\":\"S. Hranilovic\",\"conference\":\"SPIE Photonics West 2015 OPTO\",\"location\":\"San Francisco, CA, USA\",\"description\":\"Feb. 7-12, 2015.\",\"display_order\":3}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 104,
+    "category_id": 3,
+    "content": "{\"title\":\"Recent Developments in Satellite Laser Communications: Canadian Context\",\"authors\":\"S. Gagnon, B. Sylvestre, L. Gagnon, A. Koujelev, D. Gratton and S. Hranilovic\",\"conference\":\"2012 International Conference on Space Optical Systems and Applications\",\"location\":\"Ajaccio, Corsica, France\",\"description\":\"Oct. 9-12, 2012.\",\"display_order\":2}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  },
+  {
+    "id": 105,
+    "category_id": 3,
+    "content": "{\"title\":\"Spatial Multiplexing and Diversity Techniques for Multiple Element Optical Wireless Links\",\"authors\":\"M.D.A. Mohamed and S. Hranilovic\",\"conference\":\"43rd Annual Asilomar Conference on Signals, Systems, and Computers\",\"location\":\"Pacific Grove, California, USA\",\"description\":\"Nov. 1-4, 2009.\",\"display_order\":1}",
+    "created_at": "2024-06-24 14:47:34",
+    "updated_at": "2024-06-24 14:47:34",
+    "deleted_at": null
+  }
+]
