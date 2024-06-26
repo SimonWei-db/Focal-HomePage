@@ -6,3 +6,5 @@
 /node_modules
 focal_database.sqlite
 server.zip
+/server/uploads
+/server/server.exe

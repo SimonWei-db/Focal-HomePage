@@ -10,7 +10,7 @@ import {
   FaPlus
 } from 'react-icons/fa';
 import { CopyOutlined } from '@ant-design/icons';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, useLocation } from 'react-router-dom';
 import Navbar from '../../components/layout/Navbar';
 import CustomFooter from '../../components/layout/CustomFooter';
 import ChangePassword from './ChangePassword';
@@ -33,6 +33,7 @@ const AdminDashboard = () => {
   const [activeKey, setActiveKey] = useState('1');
   const [isSmallScreen, setIsSmallScreen] = useState(false);
   const navigate = useNavigate();
+  const location = useLocation();
 
   useEffect(() => {
     const checkAuth = async () => {
@@ -60,8 +61,9 @@ const AdminDashboard = () => {
     window.addEventListener('resize', handleResize);
     handleResize(); // Check the screen size on component mount
 
-    const urlParams = new URLSearchParams(window.location.search);
-    const tab = urlParams.get('tab');
+    
+    const params = new URLSearchParams(location.search);
+    const tab = params.get('tab');
     switch (tab) {
       case 'aboutMe':
         setActiveKey('1');
